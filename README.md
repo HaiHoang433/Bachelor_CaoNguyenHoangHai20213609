@@ -24,7 +24,7 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 **Step 1:** Run [cifar10_training_parameters_generated.ipynb](software_implementation/cifar10_training_parameters_generated.ipynb) (with Python 3 and T4 GPU) to generate [cnn_params.h](software_implementation/cnn_params.h) (trained weights for MCU) and [cifar10_cnn.weights.h5](software_implementation/cifar10_cnn.weights.h5) (trained weights for evaluation with Google Colab).
 
-**Step 2:** Run [cifar10_validation_images_txt_generated.ipynb](software_implementation/cifar10_validation_images_txt_generated.ipynb) to generate 2 zip folders of [cifar10_essential](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/QMBiQZjY) and [cifar10_full_dataset](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/gAAg1ZjS). Put all the cifar10_batch_1.txt, cifar10_batch_2.txt, ..., cifar10_batch_10.txt from [cifar10_full_dataset](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/gAAg1ZjS) folder into the SD Card.
+**Step 2:** Run [cifar10_validation_images_txt_generated.ipynb](software_implementation/cifar10_validation_images_txt_generated.ipynb) to generate 2 zip folders of [cifar10_essential](https://mega.nz/folder/wJJTwTJJ#zN7Oi0LQul-38wNOVVigYg) and [cifar10_full_dataset](https://mega.nz/folder/0VYwjYTR#EB6_onD29DyLSFZ92Z05Rg). Put all the cifar10_batch_1.txt, cifar10_batch_2.txt, ..., cifar10_batch_10.txt from [cifar10_essential](https://mega.nz/folder/wJJTwTJJ#zN7Oi0LQul-38wNOVVigYg) folder into the SD Card.
 
 **Step 3:** Configure .ioc file in STM32CubeIDE:
 - RCC: HSE to "Crystal/Ceramic Resonator".
@@ -159,3 +159,28 @@ FINISHED FIRST 10000 IMAGES!
 ```
 
 Run [all_validation_images_evaluation.ipynb](software_implementation/all_validation_images_evaluation.ipynb). It generates [all_validation_images_google_colab_predictions.txt](software_implementation/all_validation_images_google_colab_predictions.txt) to be compared with the above [all_validation_images_itm_data_console.txt](software_implementation/all_validation_images_itm_data_console.txt).
+
+## Conclusion
+
+Final clip: https://mega.nz/file/8cwX2bBb#8AIR2kjo1OdmBKyrMB0RYOmpo7mMVlt588MPoH5ckKY
+
+The STM32 project runs with no errors and no warnings. All 10,000 validation images from the Google Colab and those from the SD Card are exactly the same (by RGB values) one-by-one. You can confirm that at [all_validation_images_evaluation.ipynb](software_implementation/all_validation_images_evaluation.ipynb).
+
+Testing the first _1,000 validation images_ from CIFAR-10 dataset using STM32F4 Discovery gives us the table:
+
+![table_1000](figures_for_readme/table_1000.png)
+
+The confidence and result (TRUE/FALSE) of each validation image is exactly correct one-by-one when comparing STM32CubeIDE run with Google Colab run. So do the accruacy. You can confirm that at [evaluation.ipynb](software_implementation/evaluation.ipynb).
+
+In the table, the -Ofast optimization takes minimum total inference time. So, for the whole 10,000 validation images, we use -Ofast optimization & hardware FP ABI (for fully usage of MCU FPU).
+
+Testing the whole _10,000 validation images_ from CIFAR-10 dataset using STM32F4 Discovery gives us:
+- Same accruacy: 60.01%
+- Average inference time: 119 ms (14.7% slower compared to Google Colab)
+- Total inference time: 1196.36 s (15.3% slower compared to Google Colab)
+
+The **confidence** of each validation image is almost correct when comparing STM32CubeIDE run with Google Colab run (with negligible difference).
+
+The **result (TRUE/FALSE)** of each validation image is exactly correct when comparing STM32CubeIDE run with Google Colab run.
+
+You can confirm that at [all_validation_images_evaluation.ipynb](software_implementation/all_validation_images_evaluation.ipynb).
