@@ -63,8 +63,63 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 ![optimization_options](figures_for_readme/properties_with_square_3.png)
 
-After that, "Clean Project" then "Build Project". The project should runs with no errors and no warnings. In "Debug Configurations" > "Debugger", enable the Serial Wire Viewer (SWV). Then, "Debug As STM32 C/C++ Application".
+After that, "Clean Project" then "Build Project". The project should runs with no errors and no warnings. In "Debug Configurations" > "Debugger", enable the Serial Wire Viewer (SWV). 
 
-In the Debug Mode, 
+![enable_swv](figures_for_readme/enable_swv.png)
+
+Then, "Debug As STM32 C/C++ Application".
+
+In the Debug Mode, at the "SWV ITM Data Console", click this:
+
+![swv_conf_1](figures_for_readme/swv_conf_1.png)
+
+Enable Port 0:
+
+![swv_conf_2](figures_for_readme/swv_conf_2.png)
+
+Then click this to track printf:
+
+![swv_conf_3](figures_for_readme/swv_conf_3.png)
+
+Finally, click "Resume":
+
+![resume](figures_for_readme/resume.png)
+
+The project finally runs like this:
+
+![running_interface](figures_for_readme/running_interface.png)
+
+After finishing running, copy the text at "SWV ITM Data Console" and paste in:
+- [stm32_soft_O0_predictions.txt](software_implementation/stm32_soft_O0_predictions.txt)
+- [stm32_softfp_O0_predictions.txt](software_implementation/stm32_softfp_O0_predictions.txt)
+- [stm32_hard_O0_predictions.txt](software_implementation/stm32_hard_O0_predictions.txt)
+- [stm32_hard_O1_predictions.txt](software_implementation/stm32_hard_O1_predictions.txt)
+- [stm32_hard_O2_predictions.txt](software_implementation/stm32_hard_O2_predictions.txt)
+- [stm32_hard_O3_predictions.txt](software_implementation/stm32_hard_O3_predictions.txt)
+- [stm32_hard_Ofast_predictions.txt](software_implementation/stm32_hard_Ofast_predictions.txt)
+- [stm32_hard_Og_predictions.txt](software_implementation/stm32_hard_Og_predictions.txt)
+- [stm32_hard_Os_predictions.txt](software_implementation/stm32_hard_Os_predictions.txt)
+- [stm32_hard_Oz_predictions.txt](software_implementation/stm32_hard_Oz_predictions.txt)
+with this format:
+```
+Image #0 (Batch 1): Label=3, Avg RGB=(110,110,104)
+The model predicts to be label 3 with confidence 38.88% and inference time 294 ms
+TRUE
+Image #1 (Batch 1): Label=8, Avg RGB=(150,154,160)
+The model predicts to be label 8 with confidence 77.56% and inference time 301 ms
+TRUE
+Image #2 (Batch 1): Label=8, Avg RGB=(121,133,143)
+The model predicts to be label 1 with confidence 41.08% and inference time 296 ms
+FALSE
+...
+Image #999 (Batch 1): Label=8, Avg RGB=(153,145,150)
+The model predicts to be label 8 with confidence 79.51% and inference time 300 ms
+TRUE
+
+FINISHED FIRST 1000 IMAGES!
+- Accruacy after running 1000 first images: 59.90%
+- Average inference time after running 1000 first images: 298 ms
+- Total inference time after running 1000 first images: 298.05 (s)
+```
 
 **Step 7:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
