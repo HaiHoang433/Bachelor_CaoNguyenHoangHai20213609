@@ -1,1 +1,3 @@
-# Bachelor_CaoNguyenHoangHai20213609
+# Bachelor Project
+
+My name is Cao Nguyễn Hoàng Hải 20213609...
