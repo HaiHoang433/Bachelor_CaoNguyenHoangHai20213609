@@ -20,5 +20,5 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 ...
 
-## Testing the first 1,000 validation images
+## Testing the First 1,000 Validation Images
 
