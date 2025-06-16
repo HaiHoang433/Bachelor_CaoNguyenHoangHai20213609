@@ -34,16 +34,19 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 - Set pin PC4 to GPIO_Output.
 - In clock configuration, configure HCLK to a maximum of 168 MHz.
 
-**Step 4:** After automatically generating codes when Ctrl+S the .ioc file:
-- Adding fatfs_sd.c and fatfs_sd.h
-- Adding cnn_params.h and cnn_params.c
-- In stm32f4xx_it.c, adding codes at:
+**Step 4:**
+
+**Step 5:** After automatically generating codes when Ctrl+S the .ioc file:
+- Adding [fatfs_sd.c](Core/Src/fatfs_sd.c) and [fatfs_sd.h](Core/Inc/fatfs_sd.h)
+- Adding [cnn_params.h](Core/Inc/cnn_params.h) generated from [cifar10_training_parameters_generated.ipynb](software_implementation/cifar10_training_parameters_generated.ipynb) before and [cnn_params.c](Core/Src/cnn_params.c)
+- In [stm32f4xx_it.c](Core/Src/stm32f4xx_it.c), adding codes at:
   + /* USER CODE BEGIN 0 */
   + void SysTick_Handler(void)
- - Configure "return" at user_diskio.c using functions in fatfs_sd.h
- - In syscalls.c,
+ - Configure "return" at [user_diskio.c](FATFS/Target/user_diskio.c) using functions in [fatfs_sd.h](Core/Inc/fatfs_sd.h)
+ - In [syscalls.c](Core/Src/syscalls.c),
    + Adding these line codes https://github.com/niekiran/Embedded-C/blob/master/All_source_codes/target/itm_send_data.c
    + In _write function, change "__io_putchar(*ptr++);" to "ITM_SendChar(*ptr++);".
+ - Configure [ff.c](Middlewares/Third_Party/FatFs/src/ff.c)
  - Configure the main.c
    + /* USER CODE BEGIN Includes */
    + /* USER CODE BEGIN PD */
@@ -52,4 +55,4 @@ This is the connection between STM32F4 Discovery and SD Card Module:
    + /* USER CODE BEGIN 2 */
    + /* USER CODE BEGIN 3 */
 
-**Step 5:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
+**Step 6:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
