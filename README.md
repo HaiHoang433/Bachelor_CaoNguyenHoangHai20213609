@@ -47,7 +47,7 @@ This is the connection between STM32F4 Discovery and SD Card Module:
    + Adding these line codes https://github.com/niekiran/Embedded-C/blob/master/All_source_codes/target/itm_send_data.c
    + In _write function, change "__io_putchar(*ptr++);" to "ITM_SendChar(*ptr++);".
  - Configure [ff.c](Middlewares/Third_Party/FatFs/src/ff.c)
- - Configure the main.c
+ - Configure the [main.c](Core/Src/main.c)
    + /* USER CODE BEGIN Includes */
    + /* USER CODE BEGIN PD */
    + /* USER CODE BEGIN PFP */
