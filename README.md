@@ -18,7 +18,7 @@ Note: The MicroSD must be in FAT32 format.
 
 This is the connection between STM32F4 Discovery and SD Card Module:
 
-...
+![connection](figures_for_readme/connection.png)
 
 ## Testing the First 1,000 Validation Images
 
@@ -36,7 +36,7 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 **Step 4:** Configure settings of the project: In "Properties" > "C/C++ Build" > "Settings" > "MCU/MPU Settings":
 
-...
+![enable_fpu](figures_for_readme/properties_with_square.png)
 
 **Step 5:** After automatically generating codes when Ctrl+S the .ioc file:
 - Adding [fatfs_sd.c](Core/Src/fatfs_sd.c) and [fatfs_sd.h](Core/Inc/fatfs_sd.h)
@@ -59,8 +59,8 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 **Step 6:** Choose Floating-point ABI options ("Properties" > "C/C++ Build" > "Settings" > "MCU/MPU Settings") & Optimization options ("Properties" > "C/C++ Build" > "Settings" > "MCU/MPU GCC Compiler" > "Optimization").
 
-...
+![fp_abi_options](figures_for_readme/properties_with_square_2.png)
 
-...
+![optimization_options](figures_for_readme/properties_with_square_3.png)
 
 **Step 7:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
