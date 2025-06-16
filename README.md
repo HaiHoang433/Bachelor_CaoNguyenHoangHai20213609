@@ -24,7 +24,7 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 **Step 1:** Run [cifar10_training_parameters_generated.ipynb](software_implementation/cifar10_training_parameters_generated.ipynb) (with Python 3 and T4 GPU) to generate [cnn_params.h](software_implementation/cnn_params.h) (trained weights for MCU) and [cifar10_cnn.weights.h5](software_implementation/cifar10_cnn.weights.h5) (trained weights for evaluation with Google Colab).
 
-**Step 2:** Run [cifar10_validation_images_txt_generated.ipynb](software_implementation/cifar10_validation_images_txt_generated.ipynb) to generate 2 zip folders of [cifar10_essential](https://mega.nz/folder/wJJTwTJJ#zN7Oi0LQul-38wNOVVigYg) and [cifar10_full_dataset](https://mega.nz/folder/0VYwjYTR#EB6_onD29DyLSFZ92Z05Rg). Put all the cifar10_batch_1.txt, cifar10_batch_2.txt, ..., cifar10_batch_10.txt from [cifar10_essential](https://mega.nz/folder/wJJTwTJJ#zN7Oi0LQul-38wNOVVigYg) folder into the SD Card.
+**Step 2:** Run [cifar10_validation_images_txt_generated.ipynb](software_implementation/cifar10_validation_images_txt_generated.ipynb) to generate 2 zip folders of [cifar10_essential](https://mega.nz/folder/wJJTwTJJ#zN7Oi0LQul-38wNOVVigYg) and [cifar10_full_dataset](https://mega.nz/folder/0VYwjYTR#EB6_onD29DyLSFZ92Z05Rg). Put all the cifar10_batch_1.txt, cifar10_batch_2.txt, ..., cifar10_batch_10.txt from [cifar10_full_dataset](https://mega.nz/folder/0VYwjYTR#EB6_onD29DyLSFZ92Z05Rg) folder into the SD Card.
 
 **Step 3:** Configure .ioc file in STM32CubeIDE:
 - RCC: HSE to "Crystal/Ceramic Resonator".
