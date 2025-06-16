@@ -1,0 +1,3005 @@
+Image #0 (Batch 1): Label=3, Avg RGB=(110,110,104)
+The model predicts to be label 3 with confidence 38.88% and inference time 130 ms
+TRUE
+Image #1 (Batch 1): Label=8, Avg RGB=(150,154,160)
+The model predicts to be label 8 with confidence 77.56% and inference time 135 ms
+TRUE
+Image #2 (Batch 1): Label=8, Avg RGB=(121,133,143)
+The model predicts to be label 1 with confidence 41.08% and inference time 129 ms
+FALSE
+Image #3 (Batch 1): Label=0, Avg RGB=(152,150,161)
+The model predicts to be label 0 with confidence 68.25% and inference time 134 ms
+TRUE
+Image #4 (Batch 1): Label=6, Avg RGB=(107,122,92)
+The model predicts to be label 6 with confidence 75.20% and inference time 124 ms
+TRUE
+Image #5 (Batch 1): Label=6, Avg RGB=(135,88,70)
+The model predicts to be label 6 with confidence 83.13% and inference time 124 ms
+TRUE
+Image #6 (Batch 1): Label=1, Avg RGB=(106,62,58)
+The model predicts to be label 1 with confidence 94.50% and inference time 114 ms
+TRUE
+Image #7 (Batch 1): Label=6, Avg RGB=(98,97,63)
+The model predicts to be label 4 with confidence 61.14% and inference time 119 ms
+FALSE
+Image #8 (Batch 1): Label=3, Avg RGB=(173,161,144)
+The model predicts to be label 3 with confidence 43.98% and inference time 139 ms
+TRUE
+Image #9 (Batch 1): Label=1, Avg RGB=(137,135,158)
+The model predicts to be label 1 with confidence 59.58% and inference time 129 ms
+TRUE
+Image #10 (Batch 1): Label=0, Avg RGB=(121,143,156)
+The model predicts to be label 4 with confidence 30.07% and inference time 134 ms
+FALSE
+Image #11 (Batch 1): Label=9, Avg RGB=(138,129,127)
+The model predicts to be label 9 with confidence 98.17% and inference time 128 ms
+TRUE
+Image #12 (Batch 1): Label=5, Avg RGB=(106,94,77)
+The model predicts to be label 5 with confidence 17.52% and inference time 123 ms
+TRUE
+Image #13 (Batch 1): Label=7, Avg RGB=(76,73,70)
+The model predicts to be label 7 with confidence 97.62% and inference time 114 ms
+TRUE
+Image #14 (Batch 1): Label=9, Avg RGB=(107,111,109)
+The model predicts to be label 9 with confidence 98.86% and inference time 124 ms
+TRUE
+Image #15 (Batch 1): Label=8, Avg RGB=(112,147,121)
+The model predicts to be label 6 with confidence 53.64% and inference time 129 ms
+FALSE
+Image #16 (Batch 1): Label=5, Avg RGB=(139,122,121)
+The model predicts to be label 5 with confidence 82.03% and inference time 123 ms
+TRUE
+Image #17 (Batch 1): Label=7, Avg RGB=(136,130,126)
+The model predicts to be label 3 with confidence 52.64% and inference time 128 ms
+FALSE
+Image #18 (Batch 1): Label=8, Avg RGB=(133,137,146)
+The model predicts to be label 8 with confidence 45.92% and inference time 128 ms
+TRUE
+Image #19 (Batch 1): Label=6, Avg RGB=(132,111,83)
+The model predicts to be label 6 with confidence 88.76% and inference time 124 ms
+TRUE
+Image #20 (Batch 1): Label=7, Avg RGB=(116,123,104)
+The model predicts to be label 7 with confidence 58.90% and inference time 124 ms
+TRUE
+Image #21 (Batch 1): Label=0, Avg RGB=(216,220,214)
+The model predicts to be label 2 with confidence 66.31% and inference time 133 ms
+FALSE
+Image #22 (Batch 1): Label=4, Avg RGB=(51,79,108)
+The model predicts to be label 4 with confidence 52.78% and inference time 118 ms
+TRUE
+Image #23 (Batch 1): Label=9, Avg RGB=(119,89,85)
+The model predicts to be label 1 with confidence 90.85% and inference time 119 ms
+FALSE
+Image #24 (Batch 1): Label=5, Avg RGB=(150,158,111)
+The model predicts to be label 4 with confidence 78.57% and inference time 133 ms
+FALSE
+Image #25 (Batch 1): Label=2, Avg RGB=(103,131,100)
+The model predicts to be label 2 with confidence 22.60% and inference time 129 ms
+TRUE
+Image #26 (Batch 1): Label=4, Avg RGB=(107,99,84)
+The model predicts to be label 2 with confidence 36.02% and inference time 119 ms
+FALSE
+Image #27 (Batch 1): Label=0, Avg RGB=(135,145,122)
+The model predicts to be label 7 with confidence 37.64% and inference time 129 ms
+FALSE
+Image #28 (Batch 1): Label=9, Avg RGB=(128,128,126)
+The model predicts to be label 9 with confidence 63.59% and inference time 124 ms
+TRUE
+Image #29 (Batch 1): Label=6, Avg RGB=(104,88,38)
+The model predicts to be label 6 with confidence 87.08% and inference time 118 ms
+TRUE
+Image #30 (Batch 1): Label=6, Avg RGB=(81,61,39)
+The model predicts to be label 6 with confidence 46.38% and inference time 113 ms
+TRUE
+Image #31 (Batch 1): Label=5, Avg RGB=(146,126,102)
+The model predicts to be label 2 with confidence 35.02% and inference time 133 ms
+FALSE
+Image #32 (Batch 1): Label=4, Avg RGB=(132,131,118)
+The model predicts to be label 4 with confidence 57.17% and inference time 134 ms
+TRUE
+Image #33 (Batch 1): Label=5, Avg RGB=(125,123,105)
+The model predicts to be label 5 with confidence 57.49% and inference time 124 ms
+TRUE
+Image #34 (Batch 1): Label=9, Avg RGB=(92,95,110)
+The model predicts to be label 9 with confidence 74.47% and inference time 119 ms
+TRUE
+Image #35 (Batch 1): Label=2, Avg RGB=(92,89,82)
+The model predicts to be label 3 with confidence 30.76% and inference time 118 ms
+FALSE
+Image #36 (Batch 1): Label=4, Avg RGB=(142,125,97)
+The model predicts to be label 7 with confidence 77.91% and inference time 133 ms
+FALSE
+Image #37 (Batch 1): Label=1, Avg RGB=(165,165,165)
+The model predicts to be label 9 with confidence 58.13% and inference time 129 ms
+FALSE
+Image #38 (Batch 1): Label=9, Avg RGB=(157,130,140)
+The model predicts to be label 9 with confidence 82.13% and inference time 133 ms
+TRUE
+Image #39 (Batch 1): Label=5, Avg RGB=(128,128,129)
+The model predicts to be label 5 with confidence 63.44% and inference time 129 ms
+TRUE
+Image #40 (Batch 1): Label=4, Avg RGB=(128,136,139)
+The model predicts to be label 0 with confidence 71.89% and inference time 129 ms
+FALSE
+Image #41 (Batch 1): Label=6, Avg RGB=(66,58,30)
+The model predicts to be label 6 with confidence 90.73% and inference time 114 ms
+TRUE
+Image #42 (Batch 1): Label=5, Avg RGB=(93,84,85)
+The model predicts to be label 5 with confidence 58.57% and inference time 119 ms
+TRUE
+Image #43 (Batch 1): Label=6, Avg RGB=(107,97,81)
+The model predicts to be label 6 with confidence 78.36% and inference time 119 ms
+TRUE
+Image #44 (Batch 1): Label=0, Avg RGB=(83,128,148)
+The model predicts to be label 0 with confidence 58.39% and inference time 124 ms
+TRUE
+Image #45 (Batch 1): Label=9, Avg RGB=(143,147,158)
+The model predicts to be label 9 with confidence 98.97% and inference time 134 ms
+TRUE
+Image #46 (Batch 1): Label=3, Avg RGB=(124,107,89)
+The model predicts to be label 3 with confidence 56.12% and inference time 124 ms
+TRUE
+Image #47 (Batch 1): Label=9, Avg RGB=(95,101,120)
+The model predicts to be label 3 with confidence 38.15% and inference time 124 ms
+FALSE
+Image #48 (Batch 1): Label=7, Avg RGB=(120,125,78)
+The model predicts to be label 7 with confidence 39.75% and inference time 129 ms
+TRUE
+Image #49 (Batch 1): Label=6, Avg RGB=(103,109,57)
+The model predicts to be label 6 with confidence 46.72% and inference time 119 ms
+TRUE
+Image #50 (Batch 1): Label=9, Avg RGB=(93,113,130)
+The model predicts to be label 1 with confidence 69.46% and inference time 123 ms
+FALSE
+Image #51 (Batch 1): Label=8, Avg RGB=(97,104,98)
+The model predicts to be label 8 with confidence 67.55% and inference time 128 ms
+TRUE
+Image #52 (Batch 1): Label=0, Avg RGB=(91,86,63)
+The model predicts to be label 2 with confidence 43.12% and inference time 114 ms
+FALSE
+Image #53 (Batch 1): Label=3, Avg RGB=(108,89,71)
+The model predicts to be label 6 with confidence 24.58% and inference time 119 ms
+FALSE
+Image #54 (Batch 1): Label=8, Avg RGB=(122,132,156)
+The model predicts to be label 8 with confidence 60.21% and inference time 128 ms
+TRUE
+Image #55 (Batch 1): Label=8, Avg RGB=(124,130,130)
+The model predicts to be label 8 with confidence 65.97% and inference time 129 ms
+TRUE
+Image #56 (Batch 1): Label=7, Avg RGB=(123,123,111)
+The model predicts to be label 7 with confidence 77.25% and inference time 124 ms
+TRUE
+Image #57 (Batch 1): Label=7, Avg RGB=(58,52,49)
+The model predicts to be label 8 with confidence 62.77% and inference time 103 ms
+FALSE
+Image #58 (Batch 1): Label=4, Avg RGB=(151,148,142)
+The model predicts to be label 5 with confidence 49.71% and inference time 138 ms
+FALSE
+Image #59 (Batch 1): Label=6, Avg RGB=(134,131,123)
+The model predicts to be label 5 with confidence 42.06% and inference time 129 ms
+FALSE
+Image #60 (Batch 1): Label=7, Avg RGB=(154,164,110)
+The model predicts to be label 7 with confidence 83.41% and inference time 133 ms
+TRUE
+Image #61 (Batch 1): Label=3, Avg RGB=(122,96,71)
+The model predicts to be label 3 with confidence 56.44% and inference time 123 ms
+TRUE
+Image #62 (Batch 1): Label=6, Avg RGB=(60,71,44)
+The model predicts to be label 1 with confidence 85.87% and inference time 109 ms
+FALSE
+Image #63 (Batch 1): Label=3, Avg RGB=(137,127,107)
+The model predicts to be label 9 with confidence 37.30% and inference time 124 ms
+FALSE
+Image #64 (Batch 1): Label=6, Avg RGB=(118,110,93)
+The model predicts to be label 6 with confidence 44.21% and inference time 128 ms
+TRUE
+Image #65 (Batch 1): Label=2, Avg RGB=(89,100,69)
+The model predicts to be label 6 with confidence 52.57% and inference time 119 ms
+FALSE
+Image #66 (Batch 1): Label=1, Avg RGB=(118,119,111)
+The model predicts to be label 8 with confidence 62.44% and inference time 128 ms
+FALSE
+Image #67 (Batch 1): Label=2, Avg RGB=(117,178,202)
+The model predicts to be label 0 with confidence 54.80% and inference time 133 ms
+FALSE
+Image #68 (Batch 1): Label=3, Avg RGB=(89,74,70)
+The model predicts to be label 3 with confidence 54.67% and inference time 118 ms
+TRUE
+Image #69 (Batch 1): Label=7, Avg RGB=(115,123,107)
+The model predicts to be label 7 with confidence 70.01% and inference time 124 ms
+TRUE
+Image #70 (Batch 1): Label=2, Avg RGB=(178,165,147)
+The model predicts to be label 0 with confidence 63.61% and inference time 139 ms
+FALSE
+Image #71 (Batch 1): Label=6, Avg RGB=(108,89,70)
+The model predicts to be label 6 with confidence 90.67% and inference time 119 ms
+TRUE
+Image #72 (Batch 1): Label=8, Avg RGB=(168,160,156)
+The model predicts to be label 8 with confidence 93.62% and inference time 139 ms
+TRUE
+Image #73 (Batch 1): Label=8, Avg RGB=(111,119,129)
+The model predicts to be label 8 with confidence 87.88% and inference time 129 ms
+TRUE
+Image #74 (Batch 1): Label=0, Avg RGB=(137,134,125)
+The model predicts to be label 1 with confidence 54.62% and inference time 128 ms
+FALSE
+Image #75 (Batch 1): Label=2, Avg RGB=(114,149,100)
+The model predicts to be label 2 with confidence 89.20% and inference time 124 ms
+TRUE
+Image #76 (Batch 1): Label=9, Avg RGB=(138,135,132)
+The model predicts to be label 0 with confidence 56.15% and inference time 133 ms
+FALSE
+Image #77 (Batch 1): Label=3, Avg RGB=(101,96,102)
+The model predicts to be label 3 with confidence 54.03% and inference time 119 ms
+TRUE
+Image #78 (Batch 1): Label=3, Avg RGB=(90,70,54)
+The model predicts to be label 3 with confidence 44.33% and inference time 113 ms
+TRUE
+Image #79 (Batch 1): Label=8, Avg RGB=(208,208,208)
+The model predicts to be label 8 with confidence 99.33% and inference time 138 ms
+TRUE
+Image #80 (Batch 1): Label=8, Avg RGB=(155,166,164)
+The model predicts to be label 8 with confidence 81.65% and inference time 134 ms
+TRUE
+Image #81 (Batch 1): Label=1, Avg RGB=(74,37,44)
+The model predicts to be label 8 with confidence 69.04% and inference time 109 ms
+FALSE
+Image #82 (Batch 1): Label=1, Avg RGB=(103,126,91)
+The model predicts to be label 1 with confidence 63.37% and inference time 124 ms
+TRUE
+Image #83 (Batch 1): Label=7, Avg RGB=(187,187,187)
+The model predicts to be label 7 with confidence 57.39% and inference time 138 ms
+TRUE
+Image #84 (Batch 1): Label=2, Avg RGB=(191,176,184)
+The model predicts to be label 2 with confidence 65.72% and inference time 138 ms
+TRUE
+Image #85 (Batch 1): Label=5, Avg RGB=(92,113,112)
+The model predicts to be label 5 with confidence 58.75% and inference time 124 ms
+TRUE
+Image #86 (Batch 1): Label=2, Avg RGB=(81,103,113)
+The model predicts to be label 2 with confidence 63.92% and inference time 119 ms
+TRUE
+Image #87 (Batch 1): Label=7, Avg RGB=(185,178,174)
+The model predicts to be label 0 with confidence 71.89% and inference time 133 ms
+FALSE
+Image #88 (Batch 1): Label=8, Avg RGB=(166,157,151)
+The model predicts to be label 8 with confidence 80.27% and inference time 134 ms
+TRUE
+Image #89 (Batch 1): Label=9, Avg RGB=(127,125,134)
+The model predicts to be label 9 with confidence 97.47% and inference time 129 ms
+TRUE
+Image #90 (Batch 1): Label=0, Avg RGB=(124,135,147)
+The model predicts to be label 8 with confidence 55.44% and inference time 134 ms
+FALSE
+Image #91 (Batch 1): Label=3, Avg RGB=(101,93,58)
+The model predicts to be label 2 with confidence 36.96% and inference time 119 ms
+FALSE
+Image #92 (Batch 1): Label=8, Avg RGB=(173,172,194)
+The model predicts to be label 8 with confidence 93.87% and inference time 134 ms
+TRUE
+Image #93 (Batch 1): Label=6, Avg RGB=(99,132,100)
+The model predicts to be label 6 with confidence 62.75% and inference time 124 ms
+TRUE
+Image #94 (Batch 1): Label=4, Avg RGB=(78,91,76)
+The model predicts to be label 4 with confidence 47.69% and inference time 118 ms
+TRUE
+Image #95 (Batch 1): Label=6, Avg RGB=(140,130,117)
+The model predicts to be label 6 with confidence 90.43% and inference time 129 ms
+TRUE
+Image #96 (Batch 1): Label=6, Avg RGB=(121,107,79)
+The model predicts to be label 6 with confidence 95.83% and inference time 124 ms
+TRUE
+Image #97 (Batch 1): Label=0, Avg RGB=(132,136,146)
+The model predicts to be label 0 with confidence 41.89% and inference time 139 ms
+TRUE
+Image #98 (Batch 1): Label=0, Avg RGB=(209,210,202)
+The model predicts to be label 0 with confidence 96.56% and inference time 134 ms
+TRUE
+Image #99 (Batch 1): Label=7, Avg RGB=(177,156,142)
+The model predicts to be label 0 with confidence 28.86% and inference time 129 ms
+FALSE
+Image #100 (Batch 1): Label=4, Avg RGB=(123,124,123)
+The model predicts to be label 4 with confidence 75.91% and inference time 134 ms
+TRUE
+Image #101 (Batch 1): Label=5, Avg RGB=(141,128,135)
+The model predicts to be label 6 with confidence 44.94% and inference time 129 ms
+FALSE
+Image #102 (Batch 1): Label=6, Avg RGB=(64,53,43)
+The model predicts to be label 6 with confidence 90.26% and inference time 109 ms
+TRUE
+Image #103 (Batch 1): Label=3, Avg RGB=(145,127,105)
+The model predicts to be label 3 with confidence 78.09% and inference time 124 ms
+TRUE
+Image #104 (Batch 1): Label=1, Avg RGB=(113,108,114)
+The model predicts to be label 1 with confidence 97.20% and inference time 124 ms
+TRUE
+Image #105 (Batch 1): Label=1, Avg RGB=(176,180,188)
+The model predicts to be label 1 with confidence 75.88% and inference time 133 ms
+TRUE
+Image #106 (Batch 1): Label=3, Avg RGB=(93,93,90)
+The model predicts to be label 2 with confidence 30.26% and inference time 119 ms
+FALSE
+Image #107 (Batch 1): Label=6, Avg RGB=(77,78,51)
+The model predicts to be label 6 with confidence 51.74% and inference time 114 ms
+TRUE
+Image #108 (Batch 1): Label=8, Avg RGB=(149,123,131)
+The model predicts to be label 8 with confidence 91.69% and inference time 129 ms
+TRUE
+Image #109 (Batch 1): Label=7, Avg RGB=(121,119,122)
+The model predicts to be label 7 with confidence 69.71% and inference time 124 ms
+TRUE
+Image #110 (Batch 1): Label=4, Avg RGB=(175,110,46)
+The model predicts to be label 4 with confidence 61.23% and inference time 124 ms
+TRUE
+Image #111 (Batch 1): Label=0, Avg RGB=(154,153,157)
+The model predicts to be label 0 with confidence 85.98% and inference time 134 ms
+TRUE
+Image #112 (Batch 1): Label=6, Avg RGB=(168,165,82)
+The model predicts to be label 8 with confidence 28.95% and inference time 129 ms
+FALSE
+Image #113 (Batch 1): Label=2, Avg RGB=(140,124,109)
+The model predicts to be label 2 with confidence 93.48% and inference time 134 ms
+TRUE
+Image #114 (Batch 1): Label=1, Avg RGB=(159,115,105)
+The model predicts to be label 0 with confidence 65.76% and inference time 124 ms
+FALSE
+Image #115 (Batch 1): Label=3, Avg RGB=(119,109,98)
+The model predicts to be label 3 with confidence 44.47% and inference time 123 ms
+TRUE
+Image #116 (Batch 1): Label=0, Avg RGB=(127,133,160)
+The model predicts to be label 4 with confidence 34.56% and inference time 134 ms
+FALSE
+Image #117 (Batch 1): Label=4, Avg RGB=(104,114,106)
+The model predicts to be label 4 with confidence 68.74% and inference time 123 ms
+TRUE
+Image #118 (Batch 1): Label=2, Avg RGB=(24,27,24)
+The model predicts to be label 6 with confidence 39.96% and inference time 94 ms
+FALSE
+Image #119 (Batch 1): Label=7, Avg RGB=(143,112,89)
+The model predicts to be label 5 with confidence 37.95% and inference time 128 ms
+FALSE
+Image #120 (Batch 1): Label=8, Avg RGB=(152,152,152)
+The model predicts to be label 0 with confidence 79.70% and inference time 134 ms
+FALSE
+Image #121 (Batch 1): Label=3, Avg RGB=(86,76,62)
+The model predicts to be label 2 with confidence 31.73% and inference time 119 ms
+FALSE
+Image #122 (Batch 1): Label=1, Avg RGB=(90,98,93)
+The model predicts to be label 1 with confidence 50.78% and inference time 119 ms
+TRUE
+Image #123 (Batch 1): Label=2, Avg RGB=(147,166,83)
+The model predicts to be label 2 with confidence 54.63% and inference time 128 ms
+TRUE
+Image #124 (Batch 1): Label=8, Avg RGB=(144,153,160)
+The model predicts to be label 8 with confidence 58.56% and inference time 134 ms
+TRUE
+Image #125 (Batch 1): Label=0, Avg RGB=(126,118,96)
+The model predicts to be label 1 with confidence 50.26% and inference time 129 ms
+FALSE
+Image #126 (Batch 1): Label=8, Avg RGB=(114,125,134)
+The model predicts to be label 0 with confidence 40.44% and inference time 129 ms
+FALSE
+Image #127 (Batch 1): Label=3, Avg RGB=(121,102,95)
+The model predicts to be label 3 with confidence 48.73% and inference time 123 ms
+TRUE
+Image #128 (Batch 1): Label=5, Avg RGB=(120,115,107)
+The model predicts to be label 6 with confidence 42.13% and inference time 124 ms
+FALSE
+Image #129 (Batch 1): Label=2, Avg RGB=(165,146,146)
+The model predicts to be label 2 with confidence 48.53% and inference time 134 ms
+TRUE
+Image #130 (Batch 1): Label=4, Avg RGB=(183,168,117)
+The model predicts to be label 4 with confidence 43.87% and inference time 138 ms
+TRUE
+Image #131 (Batch 1): Label=1, Avg RGB=(159,161,162)
+The model predicts to be label 1 with confidence 98.94% and inference time 129 ms
+TRUE
+Image #132 (Batch 1): Label=8, Avg RGB=(111,124,146)
+The model predicts to be label 8 with confidence 68.57% and inference time 128 ms
+TRUE
+Image #133 (Batch 1): Label=9, Avg RGB=(158,122,126)
+The model predicts to be label 9 with confidence 98.42% and inference time 128 ms
+TRUE
+Image #134 (Batch 1): Label=1, Avg RGB=(165,161,168)
+The model predicts to be label 3 with confidence 29.75% and inference time 134 ms
+FALSE
+Image #135 (Batch 1): Label=2, Avg RGB=(150,138,136)
+The model predicts to be label 2 with confidence 82.41% and inference time 136 ms
+TRUE
+Image #136 (Batch 1): Label=9, Avg RGB=(127,111,103)
+The model predicts to be label 9 with confidence 66.15% and inference time 123 ms
+TRUE
+Image #137 (Batch 1): Label=7, Avg RGB=(137,149,137)
+The model predicts to be label 7 with confidence 32.85% and inference time 134 ms
+TRUE
+Image #138 (Batch 1): Label=2, Avg RGB=(118,115,51)
+The model predicts to be label 4 with confidence 33.20% and inference time 124 ms
+FALSE
+Image #139 (Batch 1): Label=9, Avg RGB=(135,143,146)
+The model predicts to be label 8 with confidence 77.34% and inference time 133 ms
+FALSE
+Image #140 (Batch 1): Label=6, Avg RGB=(130,129,117)
+The model predicts to be label 6 with confidence 47.30% and inference time 134 ms
+TRUE
+Image #141 (Batch 1): Label=5, Avg RGB=(120,152,126)
+The model predicts to be label 5 with confidence 91.00% and inference time 129 ms
+TRUE
+Image #142 (Batch 1): Label=6, Avg RGB=(199,187,179)
+The model predicts to be label 6 with confidence 85.32% and inference time 134 ms
+TRUE
+Image #143 (Batch 1): Label=3, Avg RGB=(118,91,98)
+The model predicts to be label 4 with confidence 50.54% and inference time 123 ms
+FALSE
+Image #144 (Batch 1): Label=8, Avg RGB=(120,144,139)
+The model predicts to be label 8 with confidence 87.53% and inference time 124 ms
+TRUE
+Image #145 (Batch 1): Label=7, Avg RGB=(159,161,148)
+The model predicts to be label 3 with confidence 45.61% and inference time 133 ms
+FALSE
+Image #146 (Batch 1): Label=6, Avg RGB=(78,53,46)
+The model predicts to be label 6 with confidence 84.25% and inference time 109 ms
+TRUE
+Image #147 (Batch 1): Label=2, Avg RGB=(124,116,81)
+The model predicts to be label 5 with confidence 96.87% and inference time 123 ms
+FALSE
+Image #148 (Batch 1): Label=5, Avg RGB=(115,109,102)
+The model predicts to be label 5 with confidence 91.77% and inference time 123 ms
+TRUE
+Image #149 (Batch 1): Label=2, Avg RGB=(103,91,99)
+The model predicts to be label 3 with confidence 54.46% and inference time 119 ms
+FALSE
+Image #150 (Batch 1): Label=8, Avg RGB=(138,138,138)
+The model predicts to be label 1 with confidence 62.56% and inference time 128 ms
+FALSE
+Image #151 (Batch 1): Label=9, Avg RGB=(107,107,101)
+The model predicts to be label 9 with confidence 43.39% and inference time 123 ms
+TRUE
+Image #152 (Batch 1): Label=6, Avg RGB=(78,83,89)
+The model predicts to be label 6 with confidence 35.61% and inference time 119 ms
+TRUE
+Image #153 (Batch 1): Label=0, Avg RGB=(157,157,157)
+The model predicts to be label 0 with confidence 98.93% and inference time 134 ms
+TRUE
+Image #154 (Batch 1): Label=0, Avg RGB=(87,103,134)
+The model predicts to be label 2 with confidence 56.14% and inference time 119 ms
+FALSE
+Image #155 (Batch 1): Label=5, Avg RGB=(96,89,82)
+The model predicts to be label 6 with confidence 40.38% and inference time 123 ms
+FALSE
+Image #156 (Batch 1): Label=2, Avg RGB=(195,182,164)
+The model predicts to be label 2 with confidence 70.80% and inference time 139 ms
+TRUE
+Image #157 (Batch 1): Label=9, Avg RGB=(135,135,135)
+The model predicts to be label 9 with confidence 84.43% and inference time 129 ms
+TRUE
+Image #158 (Batch 1): Label=5, Avg RGB=(137,89,89)
+The model predicts to be label 5 with confidence 31.88% and inference time 124 ms
+TRUE
+Image #159 (Batch 1): Label=4, Avg RGB=(115,124,129)
+The model predicts to be label 4 with confidence 70.82% and inference time 133 ms
+TRUE
+Image #160 (Batch 1): Label=2, Avg RGB=(140,153,165)
+The model predicts to be label 2 with confidence 40.27% and inference time 134 ms
+TRUE
+Image #161 (Batch 1): Label=1, Avg RGB=(69,71,70)
+The model predicts to be label 1 with confidence 95.08% and inference time 114 ms
+TRUE
+Image #162 (Batch 1): Label=6, Avg RGB=(112,96,96)
+The model predicts to be label 1 with confidence 62.83% and inference time 123 ms
+FALSE
+Image #163 (Batch 1): Label=6, Avg RGB=(107,118,63)
+The model predicts to be label 6 with confidence 41.71% and inference time 124 ms
+TRUE
+Image #164 (Batch 1): Label=8, Avg RGB=(154,159,168)
+The model predicts to be label 0 with confidence 71.20% and inference time 134 ms
+FALSE
+Image #165 (Batch 1): Label=4, Avg RGB=(136,128,122)
+The model predicts to be label 7 with confidence 47.59% and inference time 129 ms
+FALSE
+Image #166 (Batch 1): Label=8, Avg RGB=(146,161,176)
+The model predicts to be label 8 with confidence 37.81% and inference time 134 ms
+TRUE
+Image #167 (Batch 1): Label=4, Avg RGB=(108,89,72)
+The model predicts to be label 2 with confidence 42.24% and inference time 119 ms
+FALSE
+Image #168 (Batch 1): Label=5, Avg RGB=(172,140,139)
+The model predicts to be label 7 with confidence 46.50% and inference time 134 ms
+FALSE
+Image #169 (Batch 1): Label=0, Avg RGB=(132,128,114)
+The model predicts to be label 8 with confidence 34.69% and inference time 124 ms
+FALSE
+Image #170 (Batch 1): Label=9, Avg RGB=(161,157,154)
+The model predicts to be label 9 with confidence 92.89% and inference time 129 ms
+TRUE
+Image #171 (Batch 1): Label=9, Avg RGB=(159,147,134)
+The model predicts to be label 9 with confidence 43.03% and inference time 133 ms
+TRUE
+Image #172 (Batch 1): Label=9, Avg RGB=(134,137,136)
+The model predicts to be label 9 with confidence 52.54% and inference time 134 ms
+TRUE
+Image #173 (Batch 1): Label=8, Avg RGB=(93,97,115)
+The model predicts to be label 8 with confidence 54.27% and inference time 124 ms
+TRUE
+Image #174 (Batch 1): Label=9, Avg RGB=(110,100,95)
+The model predicts to be label 9 with confidence 76.69% and inference time 124 ms
+TRUE
+Image #175 (Batch 1): Label=9, Avg RGB=(116,135,136)
+The model predicts to be label 9 with confidence 98.80% and inference time 124 ms
+TRUE
+Image #176 (Batch 1): Label=3, Avg RGB=(74,150,145)
+The model predicts to be label 6 with confidence 50.18% and inference time 129 ms
+FALSE
+Image #177 (Batch 1): Label=7, Avg RGB=(127,110,86)
+The model predicts to be label 7 with confidence 88.63% and inference time 124 ms
+TRUE
+Image #178 (Batch 1): Label=5, Avg RGB=(124,94,107)
+The model predicts to be label 3 with confidence 29.54% and inference time 128 ms
+FALSE
+Image #179 (Batch 1): Label=0, Avg RGB=(124,134,144)
+The model predicts to be label 0 with confidence 40.43% and inference time 128 ms
+TRUE
+Image #180 (Batch 1): Label=0, Avg RGB=(177,176,175)
+The model predicts to be label 8 with confidence 62.71% and inference time 133 ms
+FALSE
+Image #181 (Batch 1): Label=5, Avg RGB=(185,176,168)
+The model predicts to be label 5 with confidence 60.88% and inference time 134 ms
+TRUE
+Image #182 (Batch 1): Label=2, Avg RGB=(160,141,93)
+The model predicts to be label 2 with confidence 63.04% and inference time 134 ms
+TRUE
+Image #183 (Batch 1): Label=2, Avg RGB=(115,116,115)
+The model predicts to be label 2 with confidence 31.72% and inference time 134 ms
+TRUE
+Image #184 (Batch 1): Label=3, Avg RGB=(193,165,142)
+The model predicts to be label 0 with confidence 54.75% and inference time 134 ms
+FALSE
+Image #185 (Batch 1): Label=8, Avg RGB=(142,138,144)
+The model predicts to be label 8 with confidence 93.90% and inference time 134 ms
+TRUE
+Image #186 (Batch 1): Label=6, Avg RGB=(58,58,27)
+The model predicts to be label 6 with confidence 35.81% and inference time 108 ms
+TRUE
+Image #187 (Batch 1): Label=3, Avg RGB=(133,127,115)
+The model predicts to be label 2 with confidence 39.66% and inference time 128 ms
+FALSE
+Image #188 (Batch 1): Label=4, Avg RGB=(186,180,169)
+The model predicts to be label 3 with confidence 77.36% and inference time 134 ms
+FALSE
+Image #189 (Batch 1): Label=0, Avg RGB=(60,135,188)
+The model predicts to be label 8 with confidence 92.31% and inference time 124 ms
+FALSE
+Image #190 (Batch 1): Label=5, Avg RGB=(182,171,96)
+The model predicts to be label 7 with confidence 30.73% and inference time 128 ms
+FALSE
+Image #191 (Batch 1): Label=8, Avg RGB=(144,130,136)
+The model predicts to be label 1 with confidence 70.27% and inference time 133 ms
+FALSE
+Image #192 (Batch 1): Label=0, Avg RGB=(138,110,91)
+The model predicts to be label 0 with confidence 81.76% and inference time 124 ms
+TRUE
+Image #193 (Batch 1): Label=1, Avg RGB=(99,84,87)
+The model predicts to be label 1 with confidence 86.09% and inference time 123 ms
+TRUE
+Image #194 (Batch 1): Label=7, Avg RGB=(135,102,86)
+The model predicts to be label 7 with confidence 25.52% and inference time 124 ms
+TRUE
+Image #195 (Batch 1): Label=2, Avg RGB=(68,85,74)
+The model predicts to be label 2 with confidence 21.94% and inference time 113 ms
+TRUE
+Image #196 (Batch 1): Label=8, Avg RGB=(131,135,130)
+The model predicts to be label 8 with confidence 60.55% and inference time 128 ms
+TRUE
+Image #197 (Batch 1): Label=8, Avg RGB=(219,210,194)
+The model predicts to be label 4 with confidence 25.94% and inference time 138 ms
+FALSE
+Image #198 (Batch 1): Label=7, Avg RGB=(108,97,87)
+The model predicts to be label 2 with confidence 26.81% and inference time 118 ms
+FALSE
+Image #199 (Batch 1): Label=8, Avg RGB=(141,140,147)
+The model predicts to be label 1 with confidence 29.30% and inference time 129 ms
+FALSE
+Image #200 (Batch 1): Label=5, Avg RGB=(131,119,106)
+The model predicts to be label 5 with confidence 48.15% and inference time 128 ms
+TRUE
+Image #201 (Batch 1): Label=1, Avg RGB=(143,137,129)
+The model predicts to be label 8 with confidence 45.61% and inference time 124 ms
+FALSE
+Image #202 (Batch 1): Label=8, Avg RGB=(114,130,154)
+The model predicts to be label 8 with confidence 47.73% and inference time 129 ms
+TRUE
+Image #203 (Batch 1): Label=7, Avg RGB=(93,87,92)
+The model predicts to be label 7 with confidence 99.83% and inference time 123 ms
+TRUE
+Image #204 (Batch 1): Label=1, Avg RGB=(84,88,92)
+The model predicts to be label 1 with confidence 92.68% and inference time 119 ms
+TRUE
+Image #205 (Batch 1): Label=3, Avg RGB=(187,154,124)
+The model predicts to be label 3 with confidence 38.42% and inference time 138 ms
+TRUE
+Image #206 (Batch 1): Label=0, Avg RGB=(53,77,107)
+The model predicts to be label 0 with confidence 38.88% and inference time 119 ms
+TRUE
+Image #207 (Batch 1): Label=5, Avg RGB=(157,148,84)
+The model predicts to be label 5 with confidence 53.89% and inference time 129 ms
+TRUE
+Image #208 (Batch 1): Label=7, Avg RGB=(159,151,116)
+The model predicts to be label 7 with confidence 95.22% and inference time 134 ms
+TRUE
+Image #209 (Batch 1): Label=9, Avg RGB=(135,136,156)
+The model predicts to be label 9 with confidence 56.49% and inference time 129 ms
+TRUE
+Image #210 (Batch 1): Label=7, Avg RGB=(121,109,102)
+The model predicts to be label 7 with confidence 39.05% and inference time 128 ms
+TRUE
+Image #211 (Batch 1): Label=4, Avg RGB=(147,92,105)
+The model predicts to be label 8 with confidence 42.04% and inference time 124 ms
+FALSE
+Image #212 (Batch 1): Label=5, Avg RGB=(190,199,201)
+The model predicts to be label 2 with confidence 36.59% and inference time 134 ms
+FALSE
+Image #213 (Batch 1): Label=9, Avg RGB=(125,127,111)
+The model predicts to be label 8 with confidence 76.34% and inference time 128 ms
+FALSE
+Image #214 (Batch 1): Label=8, Avg RGB=(146,143,138)
+The model predicts to be label 0 with confidence 42.39% and inference time 129 ms
+FALSE
+Image #215 (Batch 1): Label=0, Avg RGB=(211,208,207)
+The model predicts to be label 3 with confidence 71.92% and inference time 138 ms
+FALSE
+Image #216 (Batch 1): Label=7, Avg RGB=(193,177,163)
+The model predicts to be label 0 with confidence 74.64% and inference time 129 ms
+FALSE
+Image #217 (Batch 1): Label=9, Avg RGB=(144,152,143)
+The model predicts to be label 9 with confidence 80.78% and inference time 133 ms
+TRUE
+Image #218 (Batch 1): Label=8, Avg RGB=(237,237,237)
+The model predicts to be label 0 with confidence 40.01% and inference time 139 ms
+FALSE
+Image #219 (Batch 1): Label=2, Avg RGB=(139,141,92)
+The model predicts to be label 7 with confidence 69.90% and inference time 129 ms
+FALSE
+Image #220 (Batch 1): Label=7, Avg RGB=(141,150,120)
+The model predicts to be label 7 with confidence 97.11% and inference time 129 ms
+TRUE
+Image #221 (Batch 1): Label=6, Avg RGB=(103,87,71)
+The model predicts to be label 3 with confidence 26.32% and inference time 118 ms
+FALSE
+Image #222 (Batch 1): Label=9, Avg RGB=(122,134,129)
+The model predicts to be label 9 with confidence 99.29% and inference time 128 ms
+TRUE
+Image #223 (Batch 1): Label=4, Avg RGB=(95,97,86)
+The model predicts to be label 5 with confidence 35.03% and inference time 118 ms
+FALSE
+Image #224 (Batch 1): Label=3, Avg RGB=(103,93,81)
+The model predicts to be label 3 with confidence 60.85% and inference time 123 ms
+TRUE
+Image #225 (Batch 1): Label=9, Avg RGB=(106,106,94)
+The model predicts to be label 1 with confidence 53.40% and inference time 119 ms
+FALSE
+Image #226 (Batch 1): Label=6, Avg RGB=(128,110,91)
+The model predicts to be label 7 with confidence 51.41% and inference time 123 ms
+FALSE
+Image #227 (Batch 1): Label=4, Avg RGB=(176,167,145)
+The model predicts to be label 2 with confidence 48.96% and inference time 134 ms
+FALSE
+Image #228 (Batch 1): Label=7, Avg RGB=(185,186,175)
+The model predicts to be label 3 with confidence 67.53% and inference time 138 ms
+FALSE
+Image #229 (Batch 1): Label=6, Avg RGB=(116,117,111)
+The model predicts to be label 2 with confidence 44.58% and inference time 124 ms
+FALSE
+Image #230 (Batch 1): Label=5, Avg RGB=(94,86,78)
+The model predicts to be label 5 with confidence 85.87% and inference time 119 ms
+TRUE
+Image #231 (Batch 1): Label=1, Avg RGB=(160,129,126)
+The model predicts to be label 1 with confidence 99.08% and inference time 123 ms
+TRUE
+Image #232 (Batch 1): Label=5, Avg RGB=(104,99,75)
+The model predicts to be label 5 with confidence 81.68% and inference time 123 ms
+TRUE
+Image #233 (Batch 1): Label=8, Avg RGB=(82,90,90)
+The model predicts to be label 1 with confidence 61.48% and inference time 119 ms
+FALSE
+Image #234 (Batch 1): Label=8, Avg RGB=(144,144,144)
+The model predicts to be label 8 with confidence 87.38% and inference time 133 ms
+TRUE
+Image #235 (Batch 1): Label=0, Avg RGB=(89,124,180)
+The model predicts to be label 0 with confidence 99.71% and inference time 129 ms
+TRUE
+Image #236 (Batch 1): Label=4, Avg RGB=(74,80,53)
+The model predicts to be label 4 with confidence 71.33% and inference time 109 ms
+TRUE
+Image #237 (Batch 1): Label=0, Avg RGB=(130,132,119)
+The model predicts to be label 9 with confidence 37.66% and inference time 123 ms
+FALSE
+Image #238 (Batch 1): Label=5, Avg RGB=(227,205,198)
+The model predicts to be label 5 with confidence 35.57% and inference time 134 ms
+TRUE
+Image #239 (Batch 1): Label=5, Avg RGB=(203,183,170)
+The model predicts to be label 2 with confidence 87.93% and inference time 133 ms
+FALSE
+Image #240 (Batch 1): Label=1, Avg RGB=(63,77,88)
+The model predicts to be label 1 with confidence 99.02% and inference time 118 ms
+TRUE
+Image #241 (Batch 1): Label=1, Avg RGB=(118,128,119)
+The model predicts to be label 1 with confidence 83.59% and inference time 129 ms
+TRUE
+Image #242 (Batch 1): Label=8, Avg RGB=(121,115,109)
+The model predicts to be label 8 with confidence 69.79% and inference time 129 ms
+TRUE
+Image #243 (Batch 1): Label=9, Avg RGB=(135,132,137)
+The model predicts to be label 9 with confidence 91.83% and inference time 124 ms
+TRUE
+Image #244 (Batch 1): Label=0, Avg RGB=(80,101,183)
+The model predicts to be label 4 with confidence 63.38% and inference time 128 ms
+FALSE
+Image #245 (Batch 1): Label=3, Avg RGB=(79,76,67)
+The model predicts to be label 8 with confidence 52.40% and inference time 109 ms
+FALSE
+Image #246 (Batch 1): Label=1, Avg RGB=(158,121,89)
+The model predicts to be label 0 with confidence 44.93% and inference time 129 ms
+FALSE
+Image #247 (Batch 1): Label=9, Avg RGB=(138,139,126)
+The model predicts to be label 8 with confidence 96.87% and inference time 129 ms
+FALSE
+Image #248 (Batch 1): Label=2, Avg RGB=(122,128,110)
+The model predicts to be label 4 with confidence 32.40% and inference time 129 ms
+FALSE
+Image #249 (Batch 1): Label=2, Avg RGB=(53,46,36)
+The model predicts to be label 1 with confidence 37.75% and inference time 109 ms
+FALSE
+Image #250 (Batch 1): Label=5, Avg RGB=(141,137,128)
+The model predicts to be label 3 with confidence 50.34% and inference time 133 ms
+FALSE
+Image #251 (Batch 1): Label=3, Avg RGB=(98,77,62)
+The model predicts to be label 8 with confidence 39.07% and inference time 113 ms
+FALSE
+Image #252 (Batch 1): Label=9, Avg RGB=(132,127,91)
+The model predicts to be label 9 with confidence 98.40% and inference time 123 ms
+TRUE
+Image #253 (Batch 1): Label=9, Avg RGB=(95,55,50)
+The model predicts to be label 6 with confidence 28.68% and inference time 113 ms
+FALSE
+Image #254 (Batch 1): Label=4, Avg RGB=(122,138,92)
+The model predicts to be label 5 with confidence 29.09% and inference time 129 ms
+FALSE
+Image #255 (Batch 1): Label=0, Avg RGB=(147,142,144)
+The model predicts to be label 0 with confidence 27.51% and inference time 129 ms
+TRUE
+Image #256 (Batch 1): Label=3, Avg RGB=(107,101,85)
+The model predicts to be label 3 with confidence 39.98% and inference time 123 ms
+TRUE
+Image #257 (Batch 1): Label=0, Avg RGB=(168,163,160)
+The model predicts to be label 8 with confidence 77.27% and inference time 129 ms
+FALSE
+Image #258 (Batch 1): Label=0, Avg RGB=(151,152,140)
+The model predicts to be label 8 with confidence 86.80% and inference time 129 ms
+FALSE
+Image #259 (Batch 1): Label=9, Avg RGB=(124,93,92)
+The model predicts to be label 9 with confidence 59.00% and inference time 123 ms
+TRUE
+Image #260 (Batch 1): Label=8, Avg RGB=(111,107,102)
+The model predicts to be label 8 with confidence 71.94% and inference time 124 ms
+TRUE
+Image #261 (Batch 1): Label=1, Avg RGB=(98,100,105)
+The model predicts to be label 1 with confidence 74.38% and inference time 124 ms
+TRUE
+Image #262 (Batch 1): Label=5, Avg RGB=(84,85,88)
+The model predicts to be label 0 with confidence 41.40% and inference time 124 ms
+FALSE
+Image #263 (Batch 1): Label=7, Avg RGB=(80,69,70)
+The model predicts to be label 7 with confidence 44.93% and inference time 114 ms
+TRUE
+Image #264 (Batch 1): Label=0, Avg RGB=(149,142,135)
+The model predicts to be label 0 with confidence 55.20% and inference time 133 ms
+TRUE
+Image #265 (Batch 1): Label=8, Avg RGB=(151,147,152)
+The model predicts to be label 8 with confidence 45.90% and inference time 129 ms
+TRUE
+Image #266 (Batch 1): Label=2, Avg RGB=(142,145,145)
+The model predicts to be label 5 with confidence 65.87% and inference time 129 ms
+FALSE
+Image #267 (Batch 1): Label=4, Avg RGB=(78,75,57)
+The model predicts to be label 4 with confidence 91.74% and inference time 118 ms
+TRUE
+Image #268 (Batch 1): Label=7, Avg RGB=(149,130,127)
+The model predicts to be label 7 with confidence 98.59% and inference time 134 ms
+TRUE
+Image #269 (Batch 1): Label=0, Avg RGB=(211,199,190)
+The model predicts to be label 0 with confidence 37.06% and inference time 139 ms
+TRUE
+Image #270 (Batch 1): Label=2, Avg RGB=(147,137,120)
+The model predicts to be label 2 with confidence 39.17% and inference time 134 ms
+TRUE
+Image #271 (Batch 1): Label=3, Avg RGB=(158,168,136)
+The model predicts to be label 3 with confidence 53.63% and inference time 134 ms
+TRUE
+Image #272 (Batch 1): Label=6, Avg RGB=(80,70,41)
+The model predicts to be label 6 with confidence 86.85% and inference time 114 ms
+TRUE
+Image #273 (Batch 1): Label=3, Avg RGB=(50,51,52)
+The model predicts to be label 5 with confidence 48.06% and inference time 109 ms
+FALSE
+Image #274 (Batch 1): Label=8, Avg RGB=(150,151,143)
+The model predicts to be label 8 with confidence 90.80% and inference time 134 ms
+TRUE
+Image #275 (Batch 1): Label=5, Avg RGB=(158,147,136)
+The model predicts to be label 5 with confidence 55.03% and inference time 129 ms
+TRUE
+Image #276 (Batch 1): Label=0, Avg RGB=(82,107,113)
+The model predicts to be label 0 with confidence 85.05% and inference time 119 ms
+TRUE
+Image #277 (Batch 1): Label=3, Avg RGB=(122,126,66)
+The model predicts to be label 3 with confidence 47.86% and inference time 124 ms
+TRUE
+Image #278 (Batch 1): Label=4, Avg RGB=(139,132,99)
+The model predicts to be label 7 with confidence 47.35% and inference time 129 ms
+FALSE
+Image #279 (Batch 1): Label=3, Avg RGB=(88,94,89)
+The model predicts to be label 7 with confidence 73.23% and inference time 114 ms
+FALSE
+Image #280 (Batch 1): Label=9, Avg RGB=(117,120,119)
+The model predicts to be label 1 with confidence 68.57% and inference time 128 ms
+FALSE
+Image #281 (Batch 1): Label=0, Avg RGB=(118,116,85)
+The model predicts to be label 0 with confidence 92.34% and inference time 124 ms
+TRUE
+Image #282 (Batch 1): Label=6, Avg RGB=(172,154,151)
+The model predicts to be label 6 with confidence 53.55% and inference time 139 ms
+TRUE
+Image #283 (Batch 1): Label=1, Avg RGB=(171,177,187)
+The model predicts to be label 1 with confidence 85.06% and inference time 129 ms
+TRUE
+Image #284 (Batch 1): Label=0, Avg RGB=(169,165,165)
+The model predicts to be label 9 with confidence 76.77% and inference time 133 ms
+FALSE
+Image #285 (Batch 1): Label=9, Avg RGB=(120,118,129)
+The model predicts to be label 9 with confidence 86.26% and inference time 128 ms
+TRUE
+Image #286 (Batch 1): Label=1, Avg RGB=(48,61,99)
+The model predicts to be label 1 with confidence 93.01% and inference time 108 ms
+TRUE
+Image #287 (Batch 1): Label=0, Avg RGB=(148,163,178)
+The model predicts to be label 0 with confidence 45.74% and inference time 138 ms
+TRUE
+Image #288 (Batch 1): Label=7, Avg RGB=(121,121,117)
+The model predicts to be label 7 with confidence 99.60% and inference time 129 ms
+TRUE
+Image #289 (Batch 1): Label=9, Avg RGB=(139,139,140)
+The model predicts to be label 9 with confidence 61.11% and inference time 129 ms
+TRUE
+Image #290 (Batch 1): Label=1, Avg RGB=(105,102,119)
+The model predicts to be label 1 with confidence 99.09% and inference time 123 ms
+TRUE
+Image #291 (Batch 1): Label=2, Avg RGB=(123,113,85)
+The model predicts to be label 2 with confidence 59.42% and inference time 129 ms
+TRUE
+Image #292 (Batch 1): Label=6, Avg RGB=(111,89,72)
+The model predicts to be label 6 with confidence 90.51% and inference time 119 ms
+TRUE
+Image #293 (Batch 1): Label=9, Avg RGB=(89,97,105)
+The model predicts to be label 9 with confidence 53.88% and inference time 124 ms
+TRUE
+Image #294 (Batch 1): Label=3, Avg RGB=(105,100,100)
+The model predicts to be label 3 with confidence 53.01% and inference time 119 ms
+TRUE
+Image #295 (Batch 1): Label=4, Avg RGB=(118,133,93)
+The model predicts to be label 0 with confidence 49.54% and inference time 129 ms
+FALSE
+Image #296 (Batch 1): Label=6, Avg RGB=(106,92,56)
+The model predicts to be label 6 with confidence 94.48% and inference time 119 ms
+TRUE
+Image #297 (Batch 1): Label=0, Avg RGB=(124,208,223)
+The model predicts to be label 0 with confidence 86.10% and inference time 134 ms
+TRUE
+Image #298 (Batch 1): Label=0, Avg RGB=(125,155,183)
+The model predicts to be label 0 with confidence 96.21% and inference time 134 ms
+TRUE
+Image #299 (Batch 1): Label=6, Avg RGB=(100,102,76)
+The model predicts to be label 6 with confidence 94.30% and inference time 119 ms
+TRUE
+Image #300 (Batch 1): Label=6, Avg RGB=(102,83,56)
+The model predicts to be label 6 with confidence 90.19% and inference time 118 ms
+TRUE
+Image #301 (Batch 1): Label=6, Avg RGB=(149,135,112)
+The model predicts to be label 2 with confidence 34.27% and inference time 129 ms
+FALSE
+Image #302 (Batch 1): Label=3, Avg RGB=(114,118,110)
+The model predicts to be label 4 with confidence 28.60% and inference time 128 ms
+FALSE
+Image #303 (Batch 1): Label=2, Avg RGB=(92,104,118)
+The model predicts to be label 5 with confidence 60.67% and inference time 123 ms
+FALSE
+Image #304 (Batch 1): Label=6, Avg RGB=(115,122,104)
+The model predicts to be label 2 with confidence 72.30% and inference time 129 ms
+FALSE
+Image #305 (Batch 1): Label=1, Avg RGB=(162,160,165)
+The model predicts to be label 8 with confidence 55.85% and inference time 134 ms
+FALSE
+Image #306 (Batch 1): Label=8, Avg RGB=(94,109,113)
+The model predicts to be label 9 with confidence 82.34% and inference time 124 ms
+FALSE
+Image #307 (Batch 1): Label=2, Avg RGB=(154,150,129)
+The model predicts to be label 2 with confidence 40.93% and inference time 133 ms
+TRUE
+Image #308 (Batch 1): Label=1, Avg RGB=(105,96,104)
+The model predicts to be label 1 with confidence 80.44% and inference time 123 ms
+TRUE
+Image #309 (Batch 1): Label=6, Avg RGB=(110,109,67)
+The model predicts to be label 2 with confidence 46.43% and inference time 129 ms
+FALSE
+Image #310 (Batch 1): Label=8, Avg RGB=(105,122,158)
+The model predicts to be label 8 with confidence 82.91% and inference time 129 ms
+TRUE
+Image #311 (Batch 1): Label=6, Avg RGB=(123,109,91)
+The model predicts to be label 6 with confidence 95.31% and inference time 124 ms
+TRUE
+Image #312 (Batch 1): Label=8, Avg RGB=(152,153,161)
+The model predicts to be label 0 with confidence 76.29% and inference time 138 ms
+FALSE
+Image #313 (Batch 1): Label=0, Avg RGB=(214,219,214)
+The model predicts to be label 0 with confidence 41.30% and inference time 138 ms
+TRUE
+Image #314 (Batch 1): Label=4, Avg RGB=(123,122,121)
+The model predicts to be label 3 with confidence 25.48% and inference time 129 ms
+FALSE
+Image #315 (Batch 1): Label=0, Avg RGB=(150,150,154)
+The model predicts to be label 5 with confidence 50.84% and inference time 133 ms
+FALSE
+Image #316 (Batch 1): Label=7, Avg RGB=(113,111,103)
+The model predicts to be label 7 with confidence 70.26% and inference time 124 ms
+TRUE
+Image #317 (Batch 1): Label=7, Avg RGB=(132,128,109)
+The model predicts to be label 2 with confidence 38.01% and inference time 129 ms
+FALSE
+Image #318 (Batch 1): Label=5, Avg RGB=(111,92,74)
+The model predicts to be label 2 with confidence 27.79% and inference time 123 ms
+FALSE
+Image #319 (Batch 1): Label=5, Avg RGB=(121,110,107)
+The model predicts to be label 5 with confidence 71.34% and inference time 124 ms
+TRUE
+Image #320 (Batch 1): Label=3, Avg RGB=(145,141,124)
+The model predicts to be label 3 with confidence 48.54% and inference time 133 ms
+TRUE
+Image #321 (Batch 1): Label=5, Avg RGB=(111,103,98)
+The model predicts to be label 3 with confidence 70.08% and inference time 123 ms
+FALSE
+Image #322 (Batch 1): Label=2, Avg RGB=(77,54,26)
+The model predicts to be label 2 with confidence 81.28% and inference time 109 ms
+TRUE
+Image #323 (Batch 1): Label=3, Avg RGB=(130,112,73)
+The model predicts to be label 5 with confidence 49.40% and inference time 124 ms
+FALSE
+Image #324 (Batch 1): Label=4, Avg RGB=(125,74,56)
+The model predicts to be label 3 with confidence 43.84% and inference time 119 ms
+FALSE
+Image #325 (Batch 1): Label=1, Avg RGB=(109,103,99)
+The model predicts to be label 1 with confidence 72.33% and inference time 131 ms
+TRUE
+Image #326 (Batch 1): Label=7, Avg RGB=(107,116,106)
+The model predicts to be label 7 with confidence 63.26% and inference time 130 ms
+TRUE
+Image #327 (Batch 1): Label=5, Avg RGB=(141,129,107)
+The model predicts to be label 5 with confidence 40.50% and inference time 129 ms
+TRUE
+Image #328 (Batch 1): Label=4, Avg RGB=(102,104,121)
+The model predicts to be label 4 with confidence 47.20% and inference time 128 ms
+TRUE
+Image #329 (Batch 1): Label=6, Avg RGB=(134,142,113)
+The model predicts to be label 6 with confidence 69.97% and inference time 129 ms
+TRUE
+Image #330 (Batch 1): Label=1, Avg RGB=(97,127,97)
+The model predicts to be label 1 with confidence 64.06% and inference time 123 ms
+TRUE
+Image #331 (Batch 1): Label=9, Avg RGB=(148,147,149)
+The model predicts to be label 9 with confidence 80.00% and inference time 129 ms
+TRUE
+Image #332 (Batch 1): Label=3, Avg RGB=(133,132,107)
+The model predicts to be label 6 with confidence 25.10% and inference time 129 ms
+FALSE
+Image #333 (Batch 1): Label=6, Avg RGB=(92,82,52)
+The model predicts to be label 6 with confidence 76.88% and inference time 119 ms
+TRUE
+Image #334 (Batch 1): Label=6, Avg RGB=(124,111,61)
+The model predicts to be label 6 with confidence 58.04% and inference time 124 ms
+TRUE
+Image #335 (Batch 1): Label=9, Avg RGB=(117,109,77)
+The model predicts to be label 9 with confidence 56.49% and inference time 119 ms
+TRUE
+Image #336 (Batch 1): Label=3, Avg RGB=(120,111,89)
+The model predicts to be label 3 with confidence 67.64% and inference time 128 ms
+TRUE
+Image #337 (Batch 1): Label=8, Avg RGB=(122,129,142)
+The model predicts to be label 8 with confidence 44.49% and inference time 129 ms
+TRUE
+Image #338 (Batch 1): Label=0, Avg RGB=(169,173,202)
+The model predicts to be label 0 with confidence 85.04% and inference time 134 ms
+TRUE
+Image #339 (Batch 1): Label=7, Avg RGB=(155,136,89)
+The model predicts to be label 7 with confidence 92.30% and inference time 128 ms
+TRUE
+Image #340 (Batch 1): Label=2, Avg RGB=(158,138,112)
+The model predicts to be label 6 with confidence 64.42% and inference time 133 ms
+FALSE
+Image #341 (Batch 1): Label=6, Avg RGB=(136,113,93)
+The model predicts to be label 7 with confidence 33.40% and inference time 124 ms
+FALSE
+Image #342 (Batch 1): Label=2, Avg RGB=(142,163,188)
+The model predicts to be label 2 with confidence 62.26% and inference time 138 ms
+TRUE
+Image #343 (Batch 1): Label=5, Avg RGB=(138,125,131)
+The model predicts to be label 2 with confidence 26.13% and inference time 133 ms
+FALSE
+Image #344 (Batch 1): Label=8, Avg RGB=(79,109,119)
+The model predicts to be label 0 with confidence 42.96% and inference time 124 ms
+FALSE
+Image #345 (Batch 1): Label=5, Avg RGB=(97,99,80)
+The model predicts to be label 5 with confidence 63.55% and inference time 118 ms
+TRUE
+Image #346 (Batch 1): Label=4, Avg RGB=(161,137,133)
+The model predicts to be label 5 with confidence 37.37% and inference time 129 ms
+FALSE
+Image #347 (Batch 1): Label=6, Avg RGB=(163,86,83)
+The model predicts to be label 6 with confidence 77.13% and inference time 124 ms
+TRUE
+Image #348 (Batch 1): Label=8, Avg RGB=(132,137,150)
+The model predicts to be label 8 with confidence 76.05% and inference time 129 ms
+TRUE
+Image #349 (Batch 1): Label=9, Avg RGB=(128,118,108)
+The model predicts to be label 9 with confidence 95.29% and inference time 124 ms
+TRUE
+Image #350 (Batch 1): Label=9, Avg RGB=(112,92,82)
+The model predicts to be label 9 with confidence 96.10% and inference time 123 ms
+TRUE
+Image #351 (Batch 1): Label=1, Avg RGB=(115,87,97)
+The model predicts to be label 1 with confidence 94.06% and inference time 119 ms
+TRUE
+Image #352 (Batch 1): Label=0, Avg RGB=(134,137,146)
+The model predicts to be label 0 with confidence 46.36% and inference time 124 ms
+TRUE
+Image #353 (Batch 1): Label=2, Avg RGB=(194,190,205)
+The model predicts to be label 2 with confidence 97.60% and inference time 133 ms
+TRUE
+Image #354 (Batch 1): Label=2, Avg RGB=(162,131,116)
+The model predicts to be label 6 with confidence 62.73% and inference time 133 ms
+FALSE
+Image #355 (Batch 1): Label=7, Avg RGB=(170,139,119)
+The model predicts to be label 4 with confidence 36.13% and inference time 133 ms
+FALSE
+Image #356 (Batch 1): Label=3, Avg RGB=(168,143,112)
+The model predicts to be label 2 with confidence 36.40% and inference time 134 ms
+FALSE
+Image #357 (Batch 1): Label=2, Avg RGB=(118,109,92)
+The model predicts to be label 2 with confidence 54.01% and inference time 128 ms
+TRUE
+Image #358 (Batch 1): Label=8, Avg RGB=(105,111,105)
+The model predicts to be label 1 with confidence 87.38% and inference time 124 ms
+FALSE
+Image #359 (Batch 1): Label=0, Avg RGB=(118,109,102)
+The model predicts to be label 0 with confidence 57.98% and inference time 119 ms
+TRUE
+Image #360 (Batch 1): Label=9, Avg RGB=(96,76,72)
+The model predicts to be label 9 with confidence 49.96% and inference time 118 ms
+TRUE
+Image #361 (Batch 1): Label=5, Avg RGB=(156,145,127)
+The model predicts to be label 5 with confidence 69.50% and inference time 133 ms
+TRUE
+Image #362 (Batch 1): Label=8, Avg RGB=(136,163,151)
+The model predicts to be label 8 with confidence 84.04% and inference time 129 ms
+TRUE
+Image #363 (Batch 1): Label=1, Avg RGB=(75,100,146)
+The model predicts to be label 1 with confidence 33.17% and inference time 123 ms
+TRUE
+Image #364 (Batch 1): Label=9, Avg RGB=(172,142,140)
+The model predicts to be label 9 with confidence 78.54% and inference time 133 ms
+TRUE
+Image #365 (Batch 1): Label=4, Avg RGB=(173,173,156)
+The model predicts to be label 2 with confidence 55.29% and inference time 133 ms
+FALSE
+Image #366 (Batch 1): Label=1, Avg RGB=(153,125,59)
+The model predicts to be label 2 with confidence 42.10% and inference time 124 ms
+FALSE
+Image #367 (Batch 1): Label=3, Avg RGB=(95,101,114)
+The model predicts to be label 5 with confidence 41.28% and inference time 124 ms
+FALSE
+Image #368 (Batch 1): Label=8, Avg RGB=(76,113,150)
+The model predicts to be label 2 with confidence 52.21% and inference time 124 ms
+FALSE
+Image #369 (Batch 1): Label=1, Avg RGB=(125,123,115)
+The model predicts to be label 1 with confidence 99.44% and inference time 129 ms
+TRUE
+Image #370 (Batch 1): Label=4, Avg RGB=(166,149,116)
+The model predicts to be label 0 with confidence 35.79% and inference time 134 ms
+FALSE
+Image #371 (Batch 1): Label=7, Avg RGB=(151,156,144)
+The model predicts to be label 7 with confidence 97.74% and inference time 128 ms
+TRUE
+Image #372 (Batch 1): Label=9, Avg RGB=(145,144,142)
+The model predicts to be label 9 with confidence 96.70% and inference time 133 ms
+TRUE
+Image #373 (Batch 1): Label=4, Avg RGB=(117,122,112)
+The model predicts to be label 2 with confidence 34.04% and inference time 124 ms
+FALSE
+Image #374 (Batch 1): Label=2, Avg RGB=(48,111,57)
+The model predicts to be label 3 with confidence 49.43% and inference time 118 ms
+FALSE
+Image #375 (Batch 1): Label=7, Avg RGB=(111,99,89)
+The model predicts to be label 7 with confidence 58.00% and inference time 124 ms
+TRUE
+Image #376 (Batch 1): Label=0, Avg RGB=(180,186,185)
+The model predicts to be label 4 with confidence 34.23% and inference time 129 ms
+FALSE
+Image #377 (Batch 1): Label=7, Avg RGB=(114,112,94)
+The model predicts to be label 4 with confidence 54.63% and inference time 124 ms
+FALSE
+Image #378 (Batch 1): Label=0, Avg RGB=(90,104,91)
+The model predicts to be label 3 with confidence 29.16% and inference time 123 ms
+FALSE
+Image #379 (Batch 1): Label=6, Avg RGB=(105,97,69)
+The model predicts to be label 6 with confidence 61.39% and inference time 119 ms
+TRUE
+Image #380 (Batch 1): Label=6, Avg RGB=(99,103,87)
+The model predicts to be label 6 with confidence 85.58% and inference time 124 ms
+TRUE
+Image #381 (Batch 1): Label=9, Avg RGB=(133,135,136)
+The model predicts to be label 9 with confidence 32.23% and inference time 129 ms
+TRUE
+Image #382 (Batch 1): Label=0, Avg RGB=(219,220,216)
+The model predicts to be label 0 with confidence 97.92% and inference time 134 ms
+TRUE
+Image #383 (Batch 1): Label=9, Avg RGB=(163,164,174)
+The model predicts to be label 1 with confidence 48.35% and inference time 138 ms
+FALSE
+Image #384 (Batch 1): Label=2, Avg RGB=(96,106,65)
+The model predicts to be label 5 with confidence 38.79% and inference time 119 ms
+FALSE
+Image #385 (Batch 1): Label=8, Avg RGB=(234,232,231)
+The model predicts to be label 0 with confidence 92.19% and inference time 134 ms
+FALSE
+Image #386 (Batch 1): Label=7, Avg RGB=(114,122,105)
+The model predicts to be label 7 with confidence 94.96% and inference time 128 ms
+TRUE
+Image #387 (Batch 1): Label=2, Avg RGB=(100,118,50)
+The model predicts to be label 5 with confidence 67.89% and inference time 119 ms
+FALSE
+Image #388 (Batch 1): Label=2, Avg RGB=(133,132,131)
+The model predicts to be label 3 with confidence 40.21% and inference time 128 ms
+FALSE
+Image #389 (Batch 1): Label=5, Avg RGB=(155,131,110)
+The model predicts to be label 5 with confidence 46.46% and inference time 129 ms
+TRUE
+Image #390 (Batch 1): Label=1, Avg RGB=(93,83,101)
+The model predicts to be label 1 with confidence 61.35% and inference time 118 ms
+TRUE
+Image #391 (Batch 1): Label=2, Avg RGB=(45,97,172)
+The model predicts to be label 2 with confidence 93.31% and inference time 123 ms
+TRUE
+Image #392 (Batch 1): Label=6, Avg RGB=(141,150,86)
+The model predicts to be label 6 with confidence 96.69% and inference time 128 ms
+TRUE
+Image #393 (Batch 1): Label=2, Avg RGB=(91,99,87)
+The model predicts to be label 5 with confidence 74.52% and inference time 123 ms
+FALSE
+Image #394 (Batch 1): Label=9, Avg RGB=(115,100,92)
+The model predicts to be label 5 with confidence 52.71% and inference time 124 ms
+FALSE
+Image #395 (Batch 1): Label=6, Avg RGB=(146,116,71)
+The model predicts to be label 6 with confidence 70.30% and inference time 124 ms
+TRUE
+Image #396 (Batch 1): Label=2, Avg RGB=(123,113,88)
+The model predicts to be label 5 with confidence 43.75% and inference time 128 ms
+FALSE
+Image #397 (Batch 1): Label=3, Avg RGB=(121,105,104)
+The model predicts to be label 3 with confidence 37.69% and inference time 124 ms
+TRUE
+Image #398 (Batch 1): Label=0, Avg RGB=(110,118,121)
+The model predicts to be label 8 with confidence 46.95% and inference time 128 ms
+FALSE
+Image #399 (Batch 1): Label=3, Avg RGB=(192,173,174)
+The model predicts to be label 2 with confidence 23.88% and inference time 134 ms
+FALSE
+Image #400 (Batch 1): Label=9, Avg RGB=(161,155,118)
+The model predicts to be label 9 with confidence 68.19% and inference time 129 ms
+TRUE
+Image #401 (Batch 1): Label=8, Avg RGB=(79,81,80)
+The model predicts to be label 1 with confidence 92.20% and inference time 114 ms
+FALSE
+Image #402 (Batch 1): Label=7, Avg RGB=(169,172,136)
+The model predicts to be label 7 with confidence 94.88% and inference time 134 ms
+TRUE
+Image #403 (Batch 1): Label=8, Avg RGB=(141,160,169)
+The model predicts to be label 8 with confidence 83.39% and inference time 134 ms
+TRUE
+Image #404 (Batch 1): Label=8, Avg RGB=(117,118,113)
+The model predicts to be label 8 with confidence 57.77% and inference time 123 ms
+TRUE
+Image #405 (Batch 1): Label=4, Avg RGB=(55,65,46)
+The model predicts to be label 6 with confidence 74.73% and inference time 112 ms
+FALSE
+Image #406 (Batch 1): Label=0, Avg RGB=(106,139,191)
+The model predicts to be label 2 with confidence 59.04% and inference time 129 ms
+FALSE
+Image #407 (Batch 1): Label=1, Avg RGB=(104,110,108)
+The model predicts to be label 1 with confidence 71.23% and inference time 129 ms
+TRUE
+Image #408 (Batch 1): Label=8, Avg RGB=(161,177,180)
+The model predicts to be label 8 with confidence 93.83% and inference time 134 ms
+TRUE
+Image #409 (Batch 1): Label=2, Avg RGB=(153,165,164)
+The model predicts to be label 2 with confidence 34.80% and inference time 133 ms
+TRUE
+Image #410 (Batch 1): Label=7, Avg RGB=(141,133,121)
+The model predicts to be label 7 with confidence 82.99% and inference time 133 ms
+TRUE
+Image #411 (Batch 1): Label=9, Avg RGB=(188,161,154)
+The model predicts to be label 8 with confidence 77.11% and inference time 134 ms
+FALSE
+Image #412 (Batch 1): Label=3, Avg RGB=(141,132,130)
+The model predicts to be label 5 with confidence 55.40% and inference time 128 ms
+FALSE
+Image #413 (Batch 1): Label=6, Avg RGB=(131,122,84)
+The model predicts to be label 6 with confidence 40.31% and inference time 128 ms
+TRUE
+Image #414 (Batch 1): Label=1, Avg RGB=(108,133,144)
+The model predicts to be label 1 with confidence 54.23% and inference time 123 ms
+TRUE
+Image #415 (Batch 1): Label=9, Avg RGB=(128,130,141)
+The model predicts to be label 9 with confidence 94.17% and inference time 128 ms
+TRUE
+Image #416 (Batch 1): Label=0, Avg RGB=(173,173,159)
+The model predicts to be label 4 with confidence 39.59% and inference time 129 ms
+FALSE
+Image #417 (Batch 1): Label=7, Avg RGB=(104,114,96)
+The model predicts to be label 1 with confidence 58.42% and inference time 118 ms
+FALSE
+Image #418 (Batch 1): Label=3, Avg RGB=(113,117,107)
+The model predicts to be label 5 with confidence 34.64% and inference time 128 ms
+FALSE
+Image #419 (Batch 1): Label=7, Avg RGB=(132,135,98)
+The model predicts to be label 7 with confidence 85.40% and inference time 124 ms
+TRUE
+Image #420 (Batch 1): Label=4, Avg RGB=(48,45,35)
+The model predicts to be label 4 with confidence 45.70% and inference time 108 ms
+TRUE
+Image #421 (Batch 1): Label=5, Avg RGB=(146,134,111)
+The model predicts to be label 7 with confidence 59.54% and inference time 133 ms
+FALSE
+Image #422 (Batch 1): Label=0, Avg RGB=(132,132,132)
+The model predicts to be label 8 with confidence 68.62% and inference time 129 ms
+FALSE
+Image #423 (Batch 1): Label=0, Avg RGB=(59,54,55)
+The model predicts to be label 0 with confidence 31.26% and inference time 114 ms
+TRUE
+Image #424 (Batch 1): Label=2, Avg RGB=(165,143,113)
+The model predicts to be label 2 with confidence 52.20% and inference time 139 ms
+TRUE
+Image #425 (Batch 1): Label=9, Avg RGB=(146,156,154)
+The model predicts to be label 9 with confidence 43.13% and inference time 129 ms
+TRUE
+Image #426 (Batch 1): Label=3, Avg RGB=(105,107,100)
+The model predicts to be label 5 with confidence 40.16% and inference time 124 ms
+FALSE
+Image #427 (Batch 1): Label=4, Avg RGB=(121,110,102)
+The model predicts to be label 3 with confidence 53.20% and inference time 124 ms
+FALSE
+Image #428 (Batch 1): Label=0, Avg RGB=(115,115,84)
+The model predicts to be label 9 with confidence 19.27% and inference time 124 ms
+FALSE
+Image #429 (Batch 1): Label=6, Avg RGB=(180,180,176)
+The model predicts to be label 6 with confidence 84.06% and inference time 134 ms
+TRUE
+Image #430 (Batch 1): Label=2, Avg RGB=(131,116,107)
+The model predicts to be label 4 with confidence 27.88% and inference time 124 ms
+FALSE
+Image #431 (Batch 1): Label=5, Avg RGB=(195,181,168)
+The model predicts to be label 5 with confidence 55.13% and inference time 138 ms
+TRUE
+Image #432 (Batch 1): Label=3, Avg RGB=(127,124,120)
+The model predicts to be label 5 with confidence 47.88% and inference time 134 ms
+FALSE
+Image #433 (Batch 1): Label=7, Avg RGB=(99,99,85)
+The model predicts to be label 3 with confidence 45.43% and inference time 119 ms
+FALSE
+Image #434 (Batch 1): Label=3, Avg RGB=(136,116,109)
+The model predicts to be label 9 with confidence 93.82% and inference time 129 ms
+FALSE
+Image #435 (Batch 1): Label=7, Avg RGB=(111,97,85)
+The model predicts to be label 7 with confidence 60.61% and inference time 119 ms
+TRUE
+Image #436 (Batch 1): Label=2, Avg RGB=(122,123,116)
+The model predicts to be label 6 with confidence 31.11% and inference time 129 ms
+FALSE
+Image #437 (Batch 1): Label=5, Avg RGB=(97,90,57)
+The model predicts to be label 2 with confidence 34.45% and inference time 113 ms
+FALSE
+Image #438 (Batch 1): Label=3, Avg RGB=(93,57,57)
+The model predicts to be label 5 with confidence 31.94% and inference time 118 ms
+FALSE
+Image #439 (Batch 1): Label=1, Avg RGB=(153,97,45)
+The model predicts to be label 1 with confidence 71.86% and inference time 119 ms
+TRUE
+Image #440 (Batch 1): Label=1, Avg RGB=(132,151,126)
+The model predicts to be label 1 with confidence 96.27% and inference time 128 ms
+TRUE
+Image #441 (Batch 1): Label=4, Avg RGB=(88,89,84)
+The model predicts to be label 4 with confidence 64.87% and inference time 123 ms
+TRUE
+Image #442 (Batch 1): Label=9, Avg RGB=(129,127,125)
+The model predicts to be label 9 with confidence 83.32% and inference time 124 ms
+TRUE
+Image #443 (Batch 1): Label=9, Avg RGB=(125,124,130)
+The model predicts to be label 1 with confidence 59.74% and inference time 128 ms
+FALSE
+Image #444 (Batch 1): Label=5, Avg RGB=(116,137,135)
+The model predicts to be label 2 with confidence 49.84% and inference time 128 ms
+FALSE
+Image #445 (Batch 1): Label=7, Avg RGB=(120,117,85)
+The model predicts to be label 7 with confidence 24.00% and inference time 123 ms
+TRUE
+Image #446 (Batch 1): Label=5, Avg RGB=(135,127,128)
+The model predicts to be label 2 with confidence 37.30% and inference time 134 ms
+FALSE
+Image #447 (Batch 1): Label=0, Avg RGB=(162,196,237)
+The model predicts to be label 0 with confidence 60.20% and inference time 139 ms
+TRUE
+Image #448 (Batch 1): Label=2, Avg RGB=(171,166,134)
+The model predicts to be label 2 with confidence 38.77% and inference time 139 ms
+TRUE
+Image #449 (Batch 1): Label=2, Avg RGB=(134,151,175)
+The model predicts to be label 2 with confidence 47.91% and inference time 134 ms
+TRUE
+Image #450 (Batch 1): Label=2, Avg RGB=(131,109,72)
+The model predicts to be label 1 with confidence 55.69% and inference time 123 ms
+FALSE
+Image #451 (Batch 1): Label=9, Avg RGB=(119,119,119)
+The model predicts to be label 9 with confidence 92.37% and inference time 124 ms
+TRUE
+Image #452 (Batch 1): Label=7, Avg RGB=(139,126,112)
+The model predicts to be label 7 with confidence 46.31% and inference time 129 ms
+TRUE
+Image #453 (Batch 1): Label=3, Avg RGB=(177,159,140)
+The model predicts to be label 2 with confidence 46.92% and inference time 134 ms
+FALSE
+Image #454 (Batch 1): Label=9, Avg RGB=(147,141,144)
+The model predicts to be label 9 with confidence 89.36% and inference time 133 ms
+TRUE
+Image #455 (Batch 1): Label=4, Avg RGB=(153,181,131)
+The model predicts to be label 8 with confidence 56.86% and inference time 134 ms
+FALSE
+Image #456 (Batch 1): Label=3, Avg RGB=(105,122,64)
+The model predicts to be label 4 with confidence 56.86% and inference time 124 ms
+FALSE
+Image #457 (Batch 1): Label=5, Avg RGB=(121,92,78)
+The model predicts to be label 4 with confidence 54.84% and inference time 119 ms
+FALSE
+Image #458 (Batch 1): Label=4, Avg RGB=(111,98,83)
+The model predicts to be label 3 with confidence 28.92% and inference time 123 ms
+FALSE
+Image #459 (Batch 1): Label=6, Avg RGB=(142,140,139)
+The model predicts to be label 1 with confidence 30.85% and inference time 129 ms
+FALSE
+Image #460 (Batch 1): Label=5, Avg RGB=(112,131,99)
+The model predicts to be label 5 with confidence 71.98% and inference time 123 ms
+TRUE
+Image #461 (Batch 1): Label=6, Avg RGB=(125,113,91)
+The model predicts to be label 6 with confidence 48.10% and inference time 129 ms
+TRUE
+Image #462 (Batch 1): Label=1, Avg RGB=(126,125,123)
+The model predicts to be label 1 with confidence 98.11% and inference time 124 ms
+TRUE
+Image #463 (Batch 1): Label=4, Avg RGB=(141,116,102)
+The model predicts to be label 2 with confidence 50.81% and inference time 129 ms
+FALSE
+Image #464 (Batch 1): Label=3, Avg RGB=(151,141,146)
+The model predicts to be label 5 with confidence 27.77% and inference time 133 ms
+FALSE
+Image #465 (Batch 1): Label=4, Avg RGB=(146,160,114)
+The model predicts to be label 4 with confidence 58.84% and inference time 133 ms
+TRUE
+Image #466 (Batch 1): Label=4, Avg RGB=(125,120,89)
+The model predicts to be label 7 with confidence 56.29% and inference time 123 ms
+FALSE
+Image #467 (Batch 1): Label=3, Avg RGB=(161,157,157)
+The model predicts to be label 6 with confidence 35.24% and inference time 133 ms
+FALSE
+Image #468 (Batch 1): Label=7, Avg RGB=(131,140,111)
+The model predicts to be label 5 with confidence 75.61% and inference time 128 ms
+FALSE
+Image #469 (Batch 1): Label=8, Avg RGB=(133,132,117)
+The model predicts to be label 8 with confidence 85.76% and inference time 129 ms
+TRUE
+Image #470 (Batch 1): Label=3, Avg RGB=(86,86,68)
+The model predicts to be label 3 with confidence 58.51% and inference time 119 ms
+TRUE
+Image #471 (Batch 1): Label=7, Avg RGB=(160,145,141)
+The model predicts to be label 0 with confidence 58.13% and inference time 129 ms
+FALSE
+Image #472 (Batch 1): Label=8, Avg RGB=(96,126,151)
+The model predicts to be label 8 with confidence 95.86% and inference time 129 ms
+TRUE
+Image #473 (Batch 1): Label=0, Avg RGB=(116,145,126)
+The model predicts to be label 8 with confidence 40.12% and inference time 129 ms
+FALSE
+Image #474 (Batch 1): Label=5, Avg RGB=(120,114,99)
+The model predicts to be label 2 with confidence 68.26% and inference time 123 ms
+FALSE
+Image #475 (Batch 1): Label=7, Avg RGB=(118,111,115)
+The model predicts to be label 7 with confidence 58.77% and inference time 128 ms
+TRUE
+Image #476 (Batch 1): Label=6, Avg RGB=(128,133,93)
+The model predicts to be label 6 with confidence 70.32% and inference time 129 ms
+TRUE
+Image #477 (Batch 1): Label=0, Avg RGB=(100,135,142)
+The model predicts to be label 8 with confidence 32.62% and inference time 123 ms
+FALSE
+Image #478 (Batch 1): Label=5, Avg RGB=(136,120,78)
+The model predicts to be label 5 with confidence 47.76% and inference time 128 ms
+TRUE
+Image #479 (Batch 1): Label=4, Avg RGB=(128,121,102)
+The model predicts to be label 7 with confidence 20.22% and inference time 128 ms
+FALSE
+Image #480 (Batch 1): Label=8, Avg RGB=(151,153,156)
+The model predicts to be label 8 with confidence 46.63% and inference time 133 ms
+TRUE
+Image #481 (Batch 1): Label=6, Avg RGB=(110,94,62)
+The model predicts to be label 6 with confidence 95.70% and inference time 119 ms
+TRUE
+Image #482 (Batch 1): Label=8, Avg RGB=(133,146,134)
+The model predicts to be label 8 with confidence 48.20% and inference time 133 ms
+TRUE
+Image #483 (Batch 1): Label=5, Avg RGB=(110,109,107)
+The model predicts to be label 7 with confidence 54.90% and inference time 123 ms
+FALSE
+Image #484 (Batch 1): Label=5, Avg RGB=(184,150,132)
+The model predicts to be label 5 with confidence 27.61% and inference time 133 ms
+TRUE
+Image #485 (Batch 1): Label=9, Avg RGB=(105,112,114)
+The model predicts to be label 0 with confidence 45.03% and inference time 124 ms
+FALSE
+Image #486 (Batch 1): Label=9, Avg RGB=(139,127,129)
+The model predicts to be label 9 with confidence 88.99% and inference time 128 ms
+TRUE
+Image #487 (Batch 1): Label=9, Avg RGB=(116,102,102)
+The model predicts to be label 9 with confidence 98.28% and inference time 128 ms
+TRUE
+Image #488 (Batch 1): Label=5, Avg RGB=(157,147,159)
+The model predicts to be label 3 with confidence 29.60% and inference time 134 ms
+FALSE
+Image #489 (Batch 1): Label=0, Avg RGB=(127,155,174)
+The model predicts to be label 0 with confidence 58.07% and inference time 139 ms
+TRUE
+Image #490 (Batch 1): Label=1, Avg RGB=(107,109,105)
+The model predicts to be label 1 with confidence 97.19% and inference time 124 ms
+TRUE
+Image #491 (Batch 1): Label=0, Avg RGB=(112,110,103)
+The model predicts to be label 0 with confidence 63.35% and inference time 119 ms
+TRUE
+Image #492 (Batch 1): Label=8, Avg RGB=(131,135,136)
+The model predicts to be label 8 with confidence 51.93% and inference time 133 ms
+TRUE
+Image #493 (Batch 1): Label=1, Avg RGB=(94,101,93)
+The model predicts to be label 1 with confidence 98.69% and inference time 123 ms
+TRUE
+Image #494 (Batch 1): Label=1, Avg RGB=(112,124,138)
+The model predicts to be label 1 with confidence 56.83% and inference time 129 ms
+TRUE
+Image #495 (Batch 1): Label=8, Avg RGB=(149,171,193)
+The model predicts to be label 8 with confidence 47.37% and inference time 134 ms
+TRUE
+Image #496 (Batch 1): Label=0, Avg RGB=(95,90,79)
+The model predicts to be label 0 with confidence 87.47% and inference time 119 ms
+TRUE
+Image #497 (Batch 1): Label=2, Avg RGB=(116,145,174)
+The model predicts to be label 5 with confidence 51.17% and inference time 134 ms
+FALSE
+Image #498 (Batch 1): Label=2, Avg RGB=(121,125,109)
+The model predicts to be label 0 with confidence 42.91% and inference time 134 ms
+FALSE
+Image #499 (Batch 1): Label=0, Avg RGB=(206,208,205)
+The model predicts to be label 0 with confidence 86.78% and inference time 134 ms
+TRUE
+Image #500 (Batch 1): Label=4, Avg RGB=(158,153,86)
+The model predicts to be label 4 with confidence 48.57% and inference time 133 ms
+TRUE
+Image #501 (Batch 1): Label=6, Avg RGB=(125,113,90)
+The model predicts to be label 6 with confidence 34.21% and inference time 124 ms
+TRUE
+Image #502 (Batch 1): Label=5, Avg RGB=(95,101,81)
+The model predicts to be label 5 with confidence 59.51% and inference time 119 ms
+TRUE
+Image #503 (Batch 1): Label=4, Avg RGB=(102,93,73)
+The model predicts to be label 3 with confidence 25.61% and inference time 119 ms
+FALSE
+Image #504 (Batch 1): Label=9, Avg RGB=(133,136,139)
+The model predicts to be label 9 with confidence 77.15% and inference time 129 ms
+TRUE
+Image #505 (Batch 1): Label=4, Avg RGB=(166,164,150)
+The model predicts to be label 4 with confidence 49.46% and inference time 133 ms
+TRUE
+Image #506 (Batch 1): Label=7, Avg RGB=(116,107,108)
+The model predicts to be label 7 with confidence 60.64% and inference time 123 ms
+TRUE
+Image #507 (Batch 1): Label=9, Avg RGB=(89,88,108)
+The model predicts to be label 9 with confidence 89.05% and inference time 123 ms
+TRUE
+Image #508 (Batch 1): Label=9, Avg RGB=(210,212,212)
+The model predicts to be label 3 with confidence 49.69% and inference time 138 ms
+FALSE
+Image #509 (Batch 1): Label=4, Avg RGB=(62,76,66)
+The model predicts to be label 4 with confidence 54.02% and inference time 114 ms
+TRUE
+Image #510 (Batch 1): Label=5, Avg RGB=(161,168,160)
+The model predicts to be label 5 with confidence 90.83% and inference time 134 ms
+TRUE
+Image #511 (Batch 1): Label=6, Avg RGB=(125,107,67)
+The model predicts to be label 6 with confidence 99.15% and inference time 123 ms
+TRUE
+Image #512 (Batch 1): Label=6, Avg RGB=(113,117,83)
+The model predicts to be label 6 with confidence 98.19% and inference time 123 ms
+TRUE
+Image #513 (Batch 1): Label=1, Avg RGB=(142,143,138)
+The model predicts to be label 1 with confidence 91.74% and inference time 133 ms
+TRUE
+Image #514 (Batch 1): Label=5, Avg RGB=(122,124,122)
+The model predicts to be label 5 with confidence 69.70% and inference time 135 ms
+TRUE
+Image #515 (Batch 1): Label=3, Avg RGB=(134,119,104)
+The model predicts to be label 5 with confidence 56.44% and inference time 125 ms
+FALSE
+Image #516 (Batch 1): Label=8, Avg RGB=(109,116,151)
+The model predicts to be label 8 with confidence 66.73% and inference time 124 ms
+TRUE
+Image #517 (Batch 1): Label=9, Avg RGB=(196,196,198)
+The model predicts to be label 1 with confidence 55.80% and inference time 138 ms
+FALSE
+Image #518 (Batch 1): Label=5, Avg RGB=(88,83,82)
+The model predicts to be label 3 with confidence 54.85% and inference time 114 ms
+FALSE
+Image #519 (Batch 1): Label=8, Avg RGB=(148,161,168)
+The model predicts to be label 0 with confidence 46.36% and inference time 133 ms
+FALSE
+Image #520 (Batch 1): Label=5, Avg RGB=(149,143,132)
+The model predicts to be label 5 with confidence 70.68% and inference time 129 ms
+TRUE
+Image #521 (Batch 1): Label=7, Avg RGB=(173,178,171)
+The model predicts to be label 7 with confidence 90.90% and inference time 133 ms
+TRUE
+Image #522 (Batch 1): Label=0, Avg RGB=(183,191,183)
+The model predicts to be label 0 with confidence 92.77% and inference time 138 ms
+TRUE
+Image #523 (Batch 1): Label=7, Avg RGB=(99,97,105)
+The model predicts to be label 7 with confidence 93.91% and inference time 124 ms
+TRUE
+Image #524 (Batch 1): Label=0, Avg RGB=(195,203,212)
+The model predicts to be label 0 with confidence 65.25% and inference time 139 ms
+TRUE
+Image #525 (Batch 1): Label=5, Avg RGB=(134,114,100)
+The model predicts to be label 5 with confidence 29.02% and inference time 124 ms
+TRUE
+Image #526 (Batch 1): Label=0, Avg RGB=(148,138,138)
+The model predicts to be label 4 with confidence 23.17% and inference time 138 ms
+FALSE
+Image #527 (Batch 1): Label=0, Avg RGB=(136,154,162)
+The model predicts to be label 0 with confidence 99.61% and inference time 134 ms
+TRUE
+Image #528 (Batch 1): Label=4, Avg RGB=(106,108,140)
+The model predicts to be label 8 with confidence 26.85% and inference time 128 ms
+FALSE
+Image #529 (Batch 1): Label=6, Avg RGB=(59,72,40)
+The model predicts to be label 6 with confidence 53.07% and inference time 114 ms
+TRUE
+Image #530 (Batch 1): Label=9, Avg RGB=(137,137,140)
+The model predicts to be label 9 with confidence 63.37% and inference time 124 ms
+TRUE
+Image #531 (Batch 1): Label=0, Avg RGB=(128,130,127)
+The model predicts to be label 3 with confidence 58.38% and inference time 128 ms
+FALSE
+Image #532 (Batch 1): Label=9, Avg RGB=(108,76,55)
+The model predicts to be label 1 with confidence 58.68% and inference time 119 ms
+FALSE
+Image #533 (Batch 1): Label=5, Avg RGB=(167,164,171)
+The model predicts to be label 2 with confidence 45.98% and inference time 134 ms
+FALSE
+Image #534 (Batch 1): Label=6, Avg RGB=(87,73,54)
+The model predicts to be label 6 with confidence 80.60% and inference time 114 ms
+TRUE
+Image #535 (Batch 1): Label=6, Avg RGB=(100,107,45)
+The model predicts to be label 6 with confidence 79.04% and inference time 119 ms
+TRUE
+Image #536 (Batch 1): Label=6, Avg RGB=(160,147,76)
+The model predicts to be label 6 with confidence 91.51% and inference time 129 ms
+TRUE
+Image #537 (Batch 1): Label=2, Avg RGB=(119,99,84)
+The model predicts to be label 2 with confidence 43.85% and inference time 123 ms
+TRUE
+Image #538 (Batch 1): Label=9, Avg RGB=(125,140,152)
+The model predicts to be label 7 with confidence 47.61% and inference time 128 ms
+FALSE
+Image #539 (Batch 1): Label=0, Avg RGB=(109,116,115)
+The model predicts to be label 0 with confidence 97.19% and inference time 124 ms
+TRUE
+Image #540 (Batch 1): Label=1, Avg RGB=(143,127,127)
+The model predicts to be label 1 with confidence 95.95% and inference time 128 ms
+TRUE
+Image #541 (Batch 1): Label=7, Avg RGB=(165,146,137)
+The model predicts to be label 4 with confidence 51.28% and inference time 128 ms
+FALSE
+Image #542 (Batch 1): Label=6, Avg RGB=(200,184,131)
+The model predicts to be label 6 with confidence 55.72% and inference time 133 ms
+TRUE
+Image #543 (Batch 1): Label=7, Avg RGB=(152,127,99)
+The model predicts to be label 7 with confidence 90.70% and inference time 133 ms
+TRUE
+Image #544 (Batch 1): Label=5, Avg RGB=(132,118,101)
+The model predicts to be label 5 with confidence 85.54% and inference time 124 ms
+TRUE
+Image #545 (Batch 1): Label=9, Avg RGB=(116,124,112)
+The model predicts to be label 9 with confidence 78.69% and inference time 123 ms
+TRUE
+Image #546 (Batch 1): Label=1, Avg RGB=(170,173,175)
+The model predicts to be label 1 with confidence 81.33% and inference time 133 ms
+TRUE
+Image #547 (Batch 1): Label=6, Avg RGB=(105,92,73)
+The model predicts to be label 6 with confidence 94.32% and inference time 118 ms
+TRUE
+Image #548 (Batch 1): Label=2, Avg RGB=(95,99,82)
+The model predicts to be label 2 with confidence 71.62% and inference time 123 ms
+TRUE
+Image #549 (Batch 1): Label=5, Avg RGB=(128,133,139)
+The model predicts to be label 5 with confidence 42.27% and inference time 128 ms
+TRUE
+Image #550 (Batch 1): Label=5, Avg RGB=(114,130,118)
+The model predicts to be label 5 with confidence 36.56% and inference time 124 ms
+TRUE
+Image #551 (Batch 1): Label=5, Avg RGB=(128,130,128)
+The model predicts to be label 7 with confidence 33.50% and inference time 133 ms
+FALSE
+Image #552 (Batch 1): Label=8, Avg RGB=(115,131,142)
+The model predicts to be label 8 with confidence 56.08% and inference time 129 ms
+TRUE
+Image #553 (Batch 1): Label=5, Avg RGB=(150,138,131)
+The model predicts to be label 3 with confidence 36.70% and inference time 134 ms
+FALSE
+Image #554 (Batch 1): Label=9, Avg RGB=(100,77,84)
+The model predicts to be label 5 with confidence 34.61% and inference time 119 ms
+FALSE
+Image #555 (Batch 1): Label=4, Avg RGB=(103,126,126)
+The model predicts to be label 4 with confidence 28.15% and inference time 124 ms
+TRUE
+Image #556 (Batch 1): Label=6, Avg RGB=(133,123,88)
+The model predicts to be label 3 with confidence 37.77% and inference time 128 ms
+FALSE
+Image #557 (Batch 1): Label=4, Avg RGB=(86,56,45)
+The model predicts to be label 4 with confidence 89.72% and inference time 108 ms
+TRUE
+Image #558 (Batch 1): Label=3, Avg RGB=(98,79,73)
+The model predicts to be label 3 with confidence 93.66% and inference time 119 ms
+TRUE
+Image #559 (Batch 1): Label=2, Avg RGB=(131,115,93)
+The model predicts to be label 2 with confidence 92.35% and inference time 129 ms
+TRUE
+Image #560 (Batch 1): Label=0, Avg RGB=(141,168,186)
+The model predicts to be label 0 with confidence 98.78% and inference time 139 ms
+TRUE
+Image #561 (Batch 1): Label=7, Avg RGB=(82,94,45)
+The model predicts to be label 7 with confidence 48.93% and inference time 114 ms
+TRUE
+Image #562 (Batch 1): Label=6, Avg RGB=(115,108,98)
+The model predicts to be label 6 with confidence 66.75% and inference time 123 ms
+TRUE
+Image #563 (Batch 1): Label=2, Avg RGB=(123,106,78)
+The model predicts to be label 4 with confidence 74.47% and inference time 128 ms
+FALSE
+Image #564 (Batch 1): Label=2, Avg RGB=(111,126,75)
+The model predicts to be label 2 with confidence 51.17% and inference time 124 ms
+TRUE
+Image #565 (Batch 1): Label=3, Avg RGB=(109,112,122)
+The model predicts to be label 1 with confidence 31.01% and inference time 119 ms
+FALSE
+Image #566 (Batch 1): Label=9, Avg RGB=(132,140,139)
+The model predicts to be label 8 with confidence 54.44% and inference time 129 ms
+FALSE
+Image #567 (Batch 1): Label=7, Avg RGB=(126,97,93)
+The model predicts to be label 2 with confidence 31.05% and inference time 124 ms
+FALSE
+Image #568 (Batch 1): Label=9, Avg RGB=(98,133,108)
+The model predicts to be label 9 with confidence 60.86% and inference time 119 ms
+TRUE
+Image #569 (Batch 1): Label=2, Avg RGB=(163,160,124)
+The model predicts to be label 4 with confidence 51.66% and inference time 133 ms
+FALSE
+Image #570 (Batch 1): Label=6, Avg RGB=(124,119,110)
+The model predicts to be label 5 with confidence 38.80% and inference time 129 ms
+FALSE
+Image #571 (Batch 1): Label=7, Avg RGB=(158,157,135)
+The model predicts to be label 7 with confidence 97.29% and inference time 129 ms
+TRUE
+Image #572 (Batch 1): Label=1, Avg RGB=(106,102,97)
+The model predicts to be label 8 with confidence 58.01% and inference time 124 ms
+FALSE
+Image #573 (Batch 1): Label=3, Avg RGB=(133,95,69)
+The model predicts to be label 2 with confidence 55.74% and inference time 124 ms
+FALSE
+Image #574 (Batch 1): Label=6, Avg RGB=(182,175,166)
+The model predicts to be label 3 with confidence 68.10% and inference time 129 ms
+FALSE
+Image #575 (Batch 1): Label=6, Avg RGB=(112,106,94)
+The model predicts to be label 6 with confidence 90.83% and inference time 124 ms
+TRUE
+Image #576 (Batch 1): Label=8, Avg RGB=(117,123,131)
+The model predicts to be label 8 with confidence 69.44% and inference time 128 ms
+TRUE
+Image #577 (Batch 1): Label=9, Avg RGB=(122,138,141)
+The model predicts to be label 7 with confidence 46.50% and inference time 128 ms
+FALSE
+Image #578 (Batch 1): Label=7, Avg RGB=(188,160,147)
+The model predicts to be label 7 with confidence 92.36% and inference time 133 ms
+TRUE
+Image #579 (Batch 1): Label=5, Avg RGB=(127,119,108)
+The model predicts to be label 2 with confidence 40.36% and inference time 133 ms
+FALSE
+Image #580 (Batch 1): Label=4, Avg RGB=(99,104,53)
+The model predicts to be label 4 with confidence 70.84% and inference time 119 ms
+TRUE
+Image #581 (Batch 1): Label=0, Avg RGB=(138,151,146)
+The model predicts to be label 7 with confidence 32.09% and inference time 134 ms
+FALSE
+Image #582 (Batch 1): Label=8, Avg RGB=(141,146,161)
+The model predicts to be label 6 with confidence 67.07% and inference time 128 ms
+FALSE
+Image #583 (Batch 1): Label=4, Avg RGB=(80,102,98)
+The model predicts to be label 4 with confidence 41.34% and inference time 123 ms
+TRUE
+Image #584 (Batch 1): Label=0, Avg RGB=(72,81,130)
+The model predicts to be label 4 with confidence 46.02% and inference time 124 ms
+FALSE
+Image #585 (Batch 1): Label=9, Avg RGB=(123,123,123)
+The model predicts to be label 9 with confidence 86.60% and inference time 129 ms
+TRUE
+Image #586 (Batch 1): Label=3, Avg RGB=(115,106,98)
+The model predicts to be label 0 with confidence 23.66% and inference time 129 ms
+FALSE
+Image #587 (Batch 1): Label=4, Avg RGB=(111,110,107)
+The model predicts to be label 4 with confidence 65.37% and inference time 124 ms
+TRUE
+Image #588 (Batch 1): Label=8, Avg RGB=(116,122,133)
+The model predicts to be label 8 with confidence 94.40% and inference time 128 ms
+TRUE
+Image #589 (Batch 1): Label=9, Avg RGB=(117,104,107)
+The model predicts to be label 9 with confidence 97.80% and inference time 124 ms
+TRUE
+Image #590 (Batch 1): Label=6, Avg RGB=(134,123,110)
+The model predicts to be label 6 with confidence 39.01% and inference time 124 ms
+TRUE
+Image #591 (Batch 1): Label=9, Avg RGB=(89,109,129)
+The model predicts to be label 1 with confidence 63.45% and inference time 124 ms
+FALSE
+Image #592 (Batch 1): Label=2, Avg RGB=(190,165,117)
+The model predicts to be label 2 with confidence 86.02% and inference time 134 ms
+TRUE
+Image #593 (Batch 1): Label=6, Avg RGB=(109,101,79)
+The model predicts to be label 6 with confidence 74.78% and inference time 123 ms
+TRUE
+Image #594 (Batch 1): Label=1, Avg RGB=(129,133,114)
+The model predicts to be label 1 with confidence 53.09% and inference time 129 ms
+TRUE
+Image #595 (Batch 1): Label=4, Avg RGB=(100,89,98)
+The model predicts to be label 4 with confidence 69.12% and inference time 119 ms
+TRUE
+Image #596 (Batch 1): Label=7, Avg RGB=(165,152,134)
+The model predicts to be label 0 with confidence 36.86% and inference time 134 ms
+FALSE
+Image #597 (Batch 1): Label=3, Avg RGB=(112,113,110)
+The model predicts to be label 9 with confidence 59.25% and inference time 123 ms
+FALSE
+Image #598 (Batch 1): Label=5, Avg RGB=(111,93,82)
+The model predicts to be label 2 with confidence 33.63% and inference time 123 ms
+FALSE
+Image #599 (Batch 1): Label=3, Avg RGB=(128,125,116)
+The model predicts to be label 3 with confidence 36.55% and inference time 128 ms
+TRUE
+Image #600 (Batch 1): Label=8, Avg RGB=(96,114,122)
+The model predicts to be label 8 with confidence 78.69% and inference time 128 ms
+TRUE
+Image #601 (Batch 1): Label=5, Avg RGB=(194,182,171)
+The model predicts to be label 5 with confidence 39.23% and inference time 134 ms
+TRUE
+Image #602 (Batch 1): Label=0, Avg RGB=(137,146,169)
+The model predicts to be label 0 with confidence 62.95% and inference time 133 ms
+TRUE
+Image #603 (Batch 1): Label=2, Avg RGB=(143,128,117)
+The model predicts to be label 2 with confidence 86.30% and inference time 134 ms
+TRUE
+Image #604 (Batch 1): Label=1, Avg RGB=(117,103,115)
+The model predicts to be label 1 with confidence 99.14% and inference time 128 ms
+TRUE
+Image #605 (Batch 1): Label=6, Avg RGB=(82,66,54)
+The model predicts to be label 6 with confidence 84.78% and inference time 109 ms
+TRUE
+Image #606 (Batch 1): Label=4, Avg RGB=(139,135,138)
+The model predicts to be label 6 with confidence 46.19% and inference time 133 ms
+FALSE
+Image #607 (Batch 1): Label=3, Avg RGB=(106,105,86)
+The model predicts to be label 3 with confidence 25.41% and inference time 124 ms
+TRUE
+Image #608 (Batch 1): Label=3, Avg RGB=(104,89,84)
+The model predicts to be label 3 with confidence 36.29% and inference time 119 ms
+TRUE
+Image #609 (Batch 1): Label=9, Avg RGB=(183,145,140)
+The model predicts to be label 9 with confidence 97.46% and inference time 129 ms
+TRUE
+Image #610 (Batch 1): Label=6, Avg RGB=(88,83,48)
+The model predicts to be label 3 with confidence 46.24% and inference time 114 ms
+FALSE
+Image #611 (Batch 1): Label=9, Avg RGB=(213,214,215)
+The model predicts to be label 9 with confidence 47.18% and inference time 138 ms
+TRUE
+Image #612 (Batch 1): Label=8, Avg RGB=(90,117,132)
+The model predicts to be label 8 with confidence 51.80% and inference time 124 ms
+TRUE
+Image #613 (Batch 1): Label=8, Avg RGB=(168,173,175)
+The model predicts to be label 8 with confidence 97.01% and inference time 139 ms
+TRUE
+Image #614 (Batch 1): Label=5, Avg RGB=(106,75,56)
+The model predicts to be label 5 with confidence 41.40% and inference time 114 ms
+TRUE
+Image #615 (Batch 1): Label=8, Avg RGB=(82,87,111)
+The model predicts to be label 3 with confidence 76.82% and inference time 123 ms
+FALSE
+Image #616 (Batch 1): Label=6, Avg RGB=(127,128,113)
+The model predicts to be label 6 with confidence 52.55% and inference time 128 ms
+TRUE
+Image #617 (Batch 1): Label=6, Avg RGB=(119,111,90)
+The model predicts to be label 6 with confidence 63.35% and inference time 124 ms
+TRUE
+Image #618 (Batch 1): Label=2, Avg RGB=(141,146,115)
+The model predicts to be label 4 with confidence 48.66% and inference time 124 ms
+FALSE
+Image #619 (Batch 1): Label=1, Avg RGB=(158,158,169)
+The model predicts to be label 1 with confidence 58.70% and inference time 133 ms
+TRUE
+Image #620 (Batch 1): Label=7, Avg RGB=(124,119,101)
+The model predicts to be label 6 with confidence 55.63% and inference time 129 ms
+FALSE
+Image #621 (Batch 1): Label=7, Avg RGB=(139,114,97)
+The model predicts to be label 1 with confidence 45.04% and inference time 128 ms
+FALSE
+Image #622 (Batch 1): Label=1, Avg RGB=(99,101,93)
+The model predicts to be label 1 with confidence 92.07% and inference time 119 ms
+TRUE
+Image #623 (Batch 1): Label=2, Avg RGB=(140,155,162)
+The model predicts to be label 2 with confidence 75.93% and inference time 133 ms
+TRUE
+Image #624 (Batch 1): Label=7, Avg RGB=(114,110,103)
+The model predicts to be label 7 with confidence 91.73% and inference time 128 ms
+TRUE
+Image #625 (Batch 1): Label=9, Avg RGB=(143,115,120)
+The model predicts to be label 9 with confidence 93.28% and inference time 124 ms
+TRUE
+Image #626 (Batch 1): Label=9, Avg RGB=(169,140,141)
+The model predicts to be label 1 with confidence 71.10% and inference time 128 ms
+FALSE
+Image #627 (Batch 1): Label=4, Avg RGB=(89,97,79)
+The model predicts to be label 4 with confidence 71.72% and inference time 123 ms
+TRUE
+Image #628 (Batch 1): Label=4, Avg RGB=(111,109,76)
+The model predicts to be label 7 with confidence 89.99% and inference time 119 ms
+FALSE
+Image #629 (Batch 1): Label=1, Avg RGB=(90,80,73)
+The model predicts to be label 1 with confidence 23.84% and inference time 118 ms
+TRUE
+Image #630 (Batch 1): Label=2, Avg RGB=(100,102,101)
+The model predicts to be label 8 with confidence 37.87% and inference time 124 ms
+FALSE
+Image #631 (Batch 1): Label=5, Avg RGB=(80,77,77)
+The model predicts to be label 2 with confidence 68.69% and inference time 118 ms
+FALSE
+Image #632 (Batch 1): Label=6, Avg RGB=(101,72,51)
+The model predicts to be label 3 with confidence 28.42% and inference time 118 ms
+FALSE
+Image #633 (Batch 1): Label=8, Avg RGB=(183,181,173)
+The model predicts to be label 8 with confidence 88.10% and inference time 134 ms
+TRUE
+Image #634 (Batch 1): Label=7, Avg RGB=(103,101,91)
+The model predicts to be label 7 with confidence 82.27% and inference time 123 ms
+TRUE
+Image #635 (Batch 1): Label=6, Avg RGB=(146,143,136)
+The model predicts to be label 6 with confidence 53.09% and inference time 134 ms
+TRUE
+Image #636 (Batch 1): Label=8, Avg RGB=(151,144,139)
+The model predicts to be label 8 with confidence 76.61% and inference time 129 ms
+TRUE
+Image #637 (Batch 1): Label=3, Avg RGB=(129,130,136)
+The model predicts to be label 2 with confidence 48.96% and inference time 129 ms
+FALSE
+Image #638 (Batch 1): Label=0, Avg RGB=(185,186,192)
+The model predicts to be label 0 with confidence 88.95% and inference time 134 ms
+TRUE
+Image #639 (Batch 1): Label=5, Avg RGB=(151,137,74)
+The model predicts to be label 5 with confidence 49.53% and inference time 124 ms
+TRUE
+Image #640 (Batch 1): Label=5, Avg RGB=(86,73,56)
+The model predicts to be label 5 with confidence 36.39% and inference time 118 ms
+TRUE
+Image #641 (Batch 1): Label=3, Avg RGB=(85,76,51)
+The model predicts to be label 9 with confidence 43.55% and inference time 114 ms
+FALSE
+Image #642 (Batch 1): Label=0, Avg RGB=(153,156,156)
+The model predicts to be label 0 with confidence 43.09% and inference time 129 ms
+TRUE
+Image #643 (Batch 1): Label=7, Avg RGB=(112,109,82)
+The model predicts to be label 7 with confidence 93.14% and inference time 128 ms
+TRUE
+Image #644 (Batch 1): Label=9, Avg RGB=(115,122,120)
+The model predicts to be label 8 with confidence 57.59% and inference time 129 ms
+FALSE
+Image #645 (Batch 1): Label=1, Avg RGB=(173,175,179)
+The model predicts to be label 9 with confidence 71.99% and inference time 134 ms
+FALSE
+Image #646 (Batch 1): Label=3, Avg RGB=(107,78,84)
+The model predicts to be label 3 with confidence 63.56% and inference time 119 ms
+TRUE
+Image #647 (Batch 1): Label=4, Avg RGB=(174,168,138)
+The model predicts to be label 3 with confidence 27.59% and inference time 139 ms
+FALSE
+Image #648 (Batch 1): Label=4, Avg RGB=(151,136,114)
+The model predicts to be label 4 with confidence 41.22% and inference time 134 ms
+TRUE
+Image #649 (Batch 1): Label=5, Avg RGB=(105,124,78)
+The model predicts to be label 5 with confidence 70.45% and inference time 124 ms
+TRUE
+Image #650 (Batch 1): Label=3, Avg RGB=(118,104,86)
+The model predicts to be label 5 with confidence 24.91% and inference time 124 ms
+FALSE
+Image #651 (Batch 1): Label=9, Avg RGB=(91,117,88)
+The model predicts to be label 1 with confidence 73.62% and inference time 124 ms
+FALSE
+Image #652 (Batch 1): Label=5, Avg RGB=(158,133,133)
+The model predicts to be label 5 with confidence 61.32% and inference time 129 ms
+TRUE
+Image #653 (Batch 1): Label=6, Avg RGB=(132,122,48)
+The model predicts to be label 3 with confidence 58.10% and inference time 124 ms
+FALSE
+Image #654 (Batch 1): Label=9, Avg RGB=(127,126,97)
+The model predicts to be label 9 with confidence 98.09% and inference time 124 ms
+TRUE
+Image #655 (Batch 1): Label=2, Avg RGB=(70,140,174)
+The model predicts to be label 2 with confidence 41.71% and inference time 124 ms
+TRUE
+Image #656 (Batch 1): Label=1, Avg RGB=(152,156,156)
+The model predicts to be label 1 with confidence 96.76% and inference time 133 ms
+TRUE
+Image #657 (Batch 1): Label=1, Avg RGB=(107,110,100)
+The model predicts to be label 1 with confidence 73.20% and inference time 124 ms
+TRUE
+Image #658 (Batch 1): Label=4, Avg RGB=(128,96,60)
+The model predicts to be label 4 with confidence 51.33% and inference time 119 ms
+TRUE
+Image #659 (Batch 1): Label=1, Avg RGB=(84,66,47)
+The model predicts to be label 3 with confidence 30.24% and inference time 113 ms
+FALSE
+Image #660 (Batch 1): Label=9, Avg RGB=(101,102,120)
+The model predicts to be label 9 with confidence 77.82% and inference time 123 ms
+TRUE
+Image #661 (Batch 1): Label=4, Avg RGB=(136,134,107)
+The model predicts to be label 4 with confidence 49.38% and inference time 133 ms
+TRUE
+Image #662 (Batch 1): Label=7, Avg RGB=(132,119,94)
+The model predicts to be label 7 with confidence 99.99% and inference time 124 ms
+TRUE
+Image #663 (Batch 1): Label=6, Avg RGB=(89,79,33)
+The model predicts to be label 2 with confidence 41.67% and inference time 113 ms
+FALSE
+Image #664 (Batch 1): Label=3, Avg RGB=(64,62,62)
+The model predicts to be label 3 with confidence 83.17% and inference time 109 ms
+TRUE
+Image #665 (Batch 1): Label=8, Avg RGB=(117,136,143)
+The model predicts to be label 0 with confidence 57.41% and inference time 133 ms
+FALSE
+Image #666 (Batch 1): Label=9, Avg RGB=(146,109,102)
+The model predicts to be label 9 with confidence 99.62% and inference time 129 ms
+TRUE
+Image #667 (Batch 1): Label=0, Avg RGB=(139,161,185)
+The model predicts to be label 8 with confidence 60.78% and inference time 134 ms
+FALSE
+Image #668 (Batch 1): Label=1, Avg RGB=(133,133,133)
+The model predicts to be label 9 with confidence 66.92% and inference time 129 ms
+FALSE
+Image #669 (Batch 1): Label=3, Avg RGB=(92,108,72)
+The model predicts to be label 2 with confidence 63.00% and inference time 124 ms
+FALSE
+Image #670 (Batch 1): Label=6, Avg RGB=(167,128,94)
+The model predicts to be label 6 with confidence 92.60% and inference time 129 ms
+TRUE
+Image #671 (Batch 1): Label=3, Avg RGB=(113,100,95)
+The model predicts to be label 7 with confidence 55.65% and inference time 118 ms
+FALSE
+Image #672 (Batch 1): Label=6, Avg RGB=(177,146,145)
+The model predicts to be label 2 with confidence 37.33% and inference time 134 ms
+FALSE
+Image #673 (Batch 1): Label=3, Avg RGB=(163,146,132)
+The model predicts to be label 3 with confidence 82.86% and inference time 129 ms
+TRUE
+Image #674 (Batch 1): Label=2, Avg RGB=(61,69,56)
+The model predicts to be label 4 with confidence 51.07% and inference time 109 ms
+FALSE
+Image #675 (Batch 1): Label=0, Avg RGB=(125,127,129)
+The model predicts to be label 1 with confidence 30.62% and inference time 133 ms
+FALSE
+Image #676 (Batch 1): Label=3, Avg RGB=(117,109,81)
+The model predicts to be label 4 with confidence 34.51% and inference time 124 ms
+FALSE
+Image #677 (Batch 1): Label=1, Avg RGB=(140,105,96)
+The model predicts to be label 5 with confidence 24.21% and inference time 124 ms
+FALSE
+Image #678 (Batch 1): Label=0, Avg RGB=(214,188,135)
+The model predicts to be label 3 with confidence 38.31% and inference time 134 ms
+FALSE
+Image #679 (Batch 1): Label=5, Avg RGB=(116,124,102)
+The model predicts to be label 3 with confidence 51.45% and inference time 119 ms
+FALSE
+Image #680 (Batch 1): Label=9, Avg RGB=(127,115,81)
+The model predicts to be label 1 with confidence 67.87% and inference time 123 ms
+FALSE
+Image #681 (Batch 1): Label=6, Avg RGB=(99,66,39)
+The model predicts to be label 6 with confidence 97.14% and inference time 114 ms
+TRUE
+Image #682 (Batch 1): Label=4, Avg RGB=(102,106,105)
+The model predicts to be label 7 with confidence 32.25% and inference time 118 ms
+FALSE
+Image #683 (Batch 1): Label=8, Avg RGB=(116,118,95)
+The model predicts to be label 8 with confidence 85.37% and inference time 128 ms
+TRUE
+Image #684 (Batch 1): Label=9, Avg RGB=(176,160,146)
+The model predicts to be label 9 with confidence 76.61% and inference time 129 ms
+TRUE
+Image #685 (Batch 1): Label=6, Avg RGB=(132,120,89)
+The model predicts to be label 4 with confidence 35.86% and inference time 128 ms
+FALSE
+Image #686 (Batch 1): Label=9, Avg RGB=(53,77,67)
+The model predicts to be label 9 with confidence 75.17% and inference time 113 ms
+TRUE
+Image #687 (Batch 1): Label=6, Avg RGB=(115,97,100)
+The model predicts to be label 5 with confidence 43.09% and inference time 123 ms
+FALSE
+Image #688 (Batch 1): Label=3, Avg RGB=(117,94,76)
+The model predicts to be label 2 with confidence 33.47% and inference time 123 ms
+FALSE
+Image #689 (Batch 1): Label=0, Avg RGB=(137,127,117)
+The model predicts to be label 0 with confidence 24.67% and inference time 128 ms
+TRUE
+Image #690 (Batch 1): Label=3, Avg RGB=(158,117,81)
+The model predicts to be label 3 with confidence 36.30% and inference time 129 ms
+TRUE
+Image #691 (Batch 1): Label=2, Avg RGB=(154,149,144)
+The model predicts to be label 2 with confidence 96.50% and inference time 129 ms
+TRUE
+Image #692 (Batch 1): Label=2, Avg RGB=(159,151,196)
+The model predicts to be label 2 with confidence 51.10% and inference time 129 ms
+TRUE
+Image #693 (Batch 1): Label=7, Avg RGB=(142,150,123)
+The model predicts to be label 7 with confidence 89.14% and inference time 133 ms
+TRUE
+Image #694 (Batch 1): Label=8, Avg RGB=(120,136,123)
+The model predicts to be label 8 with confidence 64.71% and inference time 124 ms
+TRUE
+Image #695 (Batch 1): Label=3, Avg RGB=(111,97,79)
+The model predicts to be label 3 with confidence 51.61% and inference time 118 ms
+TRUE
+Image #696 (Batch 1): Label=8, Avg RGB=(168,168,168)
+The model predicts to be label 8 with confidence 84.12% and inference time 133 ms
+TRUE
+Image #697 (Batch 1): Label=2, Avg RGB=(92,79,70)
+The model predicts to be label 0 with confidence 45.32% and inference time 119 ms
+FALSE
+Image #698 (Batch 1): Label=7, Avg RGB=(132,139,99)
+The model predicts to be label 7 with confidence 71.79% and inference time 128 ms
+TRUE
+Image #699 (Batch 1): Label=5, Avg RGB=(136,110,89)
+The model predicts to be label 5 with confidence 67.45% and inference time 128 ms
+TRUE
+Image #700 (Batch 1): Label=7, Avg RGB=(174,133,111)
+The model predicts to be label 7 with confidence 88.16% and inference time 129 ms
+TRUE
+Image #701 (Batch 1): Label=2, Avg RGB=(143,152,179)
+The model predicts to be label 0 with confidence 89.42% and inference time 133 ms
+FALSE
+Image #702 (Batch 1): Label=4, Avg RGB=(147,127,104)
+The model predicts to be label 6 with confidence 30.58% and inference time 128 ms
+FALSE
+Image #703 (Batch 1): Label=8, Avg RGB=(118,120,124)
+The model predicts to be label 2 with confidence 25.78% and inference time 129 ms
+FALSE
+Image #704 (Batch 1): Label=7, Avg RGB=(114,110,104)
+The model predicts to be label 7 with confidence 87.08% and inference time 135 ms
+TRUE
+Image #705 (Batch 1): Label=4, Avg RGB=(135,137,78)
+The model predicts to be label 5 with confidence 42.89% and inference time 129 ms
+FALSE
+Image #706 (Batch 1): Label=2, Avg RGB=(144,152,158)
+The model predicts to be label 0 with confidence 67.07% and inference time 135 ms
+FALSE
+Image #707 (Batch 1): Label=9, Avg RGB=(100,98,97)
+The model predicts to be label 3 with confidence 54.34% and inference time 123 ms
+FALSE
+Image #708 (Batch 1): Label=8, Avg RGB=(182,176,168)
+The model predicts to be label 8 with confidence 97.62% and inference time 133 ms
+TRUE
+Image #709 (Batch 1): Label=8, Avg RGB=(119,119,125)
+The model predicts to be label 8 with confidence 89.78% and inference time 129 ms
+TRUE
+Image #710 (Batch 1): Label=6, Avg RGB=(131,133,145)
+The model predicts to be label 2 with confidence 60.57% and inference time 128 ms
+FALSE
+Image #711 (Batch 1): Label=8, Avg RGB=(173,187,191)
+The model predicts to be label 0 with confidence 75.65% and inference time 138 ms
+FALSE
+Image #712 (Batch 1): Label=8, Avg RGB=(153,153,162)
+The model predicts to be label 8 with confidence 96.08% and inference time 134 ms
+TRUE
+Image #713 (Batch 1): Label=7, Avg RGB=(118,96,85)
+The model predicts to be label 2 with confidence 36.17% and inference time 124 ms
+FALSE
+Image #714 (Batch 1): Label=4, Avg RGB=(132,118,87)
+The model predicts to be label 4 with confidence 52.21% and inference time 129 ms
+TRUE
+Image #715 (Batch 1): Label=3, Avg RGB=(79,74,67)
+The model predicts to be label 3 with confidence 39.12% and inference time 114 ms
+TRUE
+Image #716 (Batch 1): Label=3, Avg RGB=(113,98,74)
+The model predicts to be label 3 with confidence 57.12% and inference time 124 ms
+TRUE
+Image #717 (Batch 1): Label=8, Avg RGB=(139,128,118)
+The model predicts to be label 8 with confidence 41.24% and inference time 129 ms
+TRUE
+Image #718 (Batch 1): Label=4, Avg RGB=(107,112,79)
+The model predicts to be label 2 with confidence 47.64% and inference time 124 ms
+FALSE
+Image #719 (Batch 1): Label=9, Avg RGB=(98,101,101)
+The model predicts to be label 9 with confidence 56.37% and inference time 124 ms
+TRUE
+Image #720 (Batch 1): Label=4, Avg RGB=(104,78,73)
+The model predicts to be label 4 with confidence 42.43% and inference time 123 ms
+TRUE
+Image #721 (Batch 1): Label=8, Avg RGB=(120,136,175)
+The model predicts to be label 8 with confidence 48.91% and inference time 129 ms
+TRUE
+Image #722 (Batch 1): Label=8, Avg RGB=(119,130,131)
+The model predicts to be label 8 with confidence 83.50% and inference time 129 ms
+TRUE
+Image #723 (Batch 1): Label=1, Avg RGB=(96,114,113)
+The model predicts to be label 1 with confidence 73.49% and inference time 124 ms
+TRUE
+Image #724 (Batch 1): Label=8, Avg RGB=(133,141,137)
+The model predicts to be label 8 with confidence 54.48% and inference time 129 ms
+TRUE
+Image #725 (Batch 1): Label=2, Avg RGB=(90,101,133)
+The model predicts to be label 7 with confidence 59.26% and inference time 124 ms
+FALSE
+Image #726 (Batch 1): Label=1, Avg RGB=(69,51,50)
+The model predicts to be label 9 with confidence 47.81% and inference time 113 ms
+FALSE
+Image #727 (Batch 1): Label=3, Avg RGB=(126,119,116)
+The model predicts to be label 2 with confidence 78.38% and inference time 124 ms
+FALSE
+Image #728 (Batch 1): Label=6, Avg RGB=(126,122,93)
+The model predicts to be label 6 with confidence 67.00% and inference time 128 ms
+TRUE
+Image #729 (Batch 1): Label=5, Avg RGB=(172,134,119)
+The model predicts to be label 3 with confidence 32.71% and inference time 133 ms
+FALSE
+Image #730 (Batch 1): Label=4, Avg RGB=(92,99,102)
+The model predicts to be label 3 with confidence 38.18% and inference time 119 ms
+FALSE
+Image #731 (Batch 1): Label=2, Avg RGB=(181,179,188)
+The model predicts to be label 0 with confidence 96.53% and inference time 138 ms
+FALSE
+Image #732 (Batch 1): Label=7, Avg RGB=(153,145,134)
+The model predicts to be label 7 with confidence 98.16% and inference time 129 ms
+TRUE
+Image #733 (Batch 1): Label=9, Avg RGB=(133,132,109)
+The model predicts to be label 9 with confidence 87.65% and inference time 129 ms
+TRUE
+Image #734 (Batch 1): Label=9, Avg RGB=(98,105,108)
+The model predicts to be label 1 with confidence 65.39% and inference time 123 ms
+FALSE
+Image #735 (Batch 1): Label=4, Avg RGB=(177,165,111)
+The model predicts to be label 0 with confidence 48.80% and inference time 139 ms
+FALSE
+Image #736 (Batch 1): Label=1, Avg RGB=(109,139,153)
+The model predicts to be label 1 with confidence 82.05% and inference time 129 ms
+TRUE
+Image #737 (Batch 1): Label=4, Avg RGB=(195,186,194)
+The model predicts to be label 0 with confidence 77.33% and inference time 134 ms
+FALSE
+Image #738 (Batch 1): Label=1, Avg RGB=(72,66,63)
+The model predicts to be label 1 with confidence 85.92% and inference time 113 ms
+TRUE
+Image #739 (Batch 1): Label=3, Avg RGB=(127,126,115)
+The model predicts to be label 7 with confidence 55.86% and inference time 128 ms
+FALSE
+Image #740 (Batch 1): Label=2, Avg RGB=(128,118,86)
+The model predicts to be label 5 with confidence 92.20% and inference time 124 ms
+FALSE
+Image #741 (Batch 1): Label=7, Avg RGB=(147,127,121)
+The model predicts to be label 7 with confidence 99.34% and inference time 129 ms
+TRUE
+Image #742 (Batch 1): Label=0, Avg RGB=(148,132,128)
+The model predicts to be label 8 with confidence 45.94% and inference time 133 ms
+FALSE
+Image #743 (Batch 1): Label=7, Avg RGB=(152,132,108)
+The model predicts to be label 7 with confidence 95.52% and inference time 129 ms
+TRUE
+Image #744 (Batch 1): Label=9, Avg RGB=(115,110,102)
+The model predicts to be label 8 with confidence 53.79% and inference time 119 ms
+FALSE
+Image #745 (Batch 1): Label=7, Avg RGB=(117,113,84)
+The model predicts to be label 7 with confidence 85.98% and inference time 123 ms
+TRUE
+Image #746 (Batch 1): Label=6, Avg RGB=(122,93,54)
+The model predicts to be label 2 with confidence 60.73% and inference time 123 ms
+FALSE
+Image #747 (Batch 1): Label=6, Avg RGB=(158,145,132)
+The model predicts to be label 6 with confidence 64.26% and inference time 129 ms
+TRUE
+Image #748 (Batch 1): Label=2, Avg RGB=(145,138,126)
+The model predicts to be label 2 with confidence 72.27% and inference time 138 ms
+TRUE
+Image #749 (Batch 1): Label=5, Avg RGB=(117,113,107)
+The model predicts to be label 5 with confidence 46.46% and inference time 119 ms
+TRUE
+Image #750 (Batch 1): Label=9, Avg RGB=(152,131,123)
+The model predicts to be label 9 with confidence 70.16% and inference time 128 ms
+TRUE
+Image #751 (Batch 1): Label=2, Avg RGB=(63,109,152)
+The model predicts to be label 0 with confidence 42.37% and inference time 128 ms
+FALSE
+Image #752 (Batch 1): Label=9, Avg RGB=(145,143,144)
+The model predicts to be label 9 with confidence 81.45% and inference time 128 ms
+TRUE
+Image #753 (Batch 1): Label=1, Avg RGB=(166,165,153)
+The model predicts to be label 1 with confidence 56.66% and inference time 133 ms
+TRUE
+Image #754 (Batch 1): Label=2, Avg RGB=(104,109,58)
+The model predicts to be label 2 with confidence 68.71% and inference time 124 ms
+TRUE
+Image #755 (Batch 1): Label=2, Avg RGB=(98,105,97)
+The model predicts to be label 2 with confidence 47.12% and inference time 124 ms
+TRUE
+Image #756 (Batch 1): Label=6, Avg RGB=(93,77,54)
+The model predicts to be label 6 with confidence 63.44% and inference time 114 ms
+TRUE
+Image #757 (Batch 1): Label=8, Avg RGB=(110,146,180)
+The model predicts to be label 8 with confidence 71.98% and inference time 134 ms
+TRUE
+Image #758 (Batch 1): Label=2, Avg RGB=(136,133,120)
+The model predicts to be label 2 with confidence 69.38% and inference time 129 ms
+TRUE
+Image #759 (Batch 1): Label=1, Avg RGB=(133,109,119)
+The model predicts to be label 1 with confidence 99.53% and inference time 124 ms
+TRUE
+Image #760 (Batch 1): Label=3, Avg RGB=(120,109,107)
+The model predicts to be label 7 with confidence 78.68% and inference time 128 ms
+FALSE
+Image #761 (Batch 1): Label=6, Avg RGB=(172,153,126)
+The model predicts to be label 6 with confidence 29.70% and inference time 134 ms
+TRUE
+Image #762 (Batch 1): Label=6, Avg RGB=(110,126,125)
+The model predicts to be label 6 with confidence 99.01% and inference time 129 ms
+TRUE
+Image #763 (Batch 1): Label=0, Avg RGB=(140,136,126)
+The model predicts to be label 0 with confidence 80.04% and inference time 124 ms
+TRUE
+Image #764 (Batch 1): Label=1, Avg RGB=(138,148,157)
+The model predicts to be label 0 with confidence 50.87% and inference time 128 ms
+FALSE
+Image #765 (Batch 1): Label=2, Avg RGB=(130,156,73)
+The model predicts to be label 2 with confidence 88.18% and inference time 128 ms
+TRUE
+Image #766 (Batch 1): Label=7, Avg RGB=(139,122,102)
+The model predicts to be label 0 with confidence 35.33% and inference time 123 ms
+FALSE
+Image #767 (Batch 1): Label=0, Avg RGB=(115,132,132)
+The model predicts to be label 5 with confidence 32.97% and inference time 128 ms
+FALSE
+Image #768 (Batch 1): Label=5, Avg RGB=(126,116,104)
+The model predicts to be label 2 with confidence 84.01% and inference time 128 ms
+FALSE
+Image #769 (Batch 1): Label=4, Avg RGB=(147,150,136)
+The model predicts to be label 8 with confidence 59.80% and inference time 133 ms
+FALSE
+Image #770 (Batch 1): Label=6, Avg RGB=(76,61,67)
+The model predicts to be label 1 with confidence 78.47% and inference time 113 ms
+FALSE
+Image #771 (Batch 1): Label=1, Avg RGB=(119,107,86)
+The model predicts to be label 1 with confidence 88.69% and inference time 123 ms
+TRUE
+Image #772 (Batch 1): Label=6, Avg RGB=(100,106,85)
+The model predicts to be label 6 with confidence 93.75% and inference time 123 ms
+TRUE
+Image #773 (Batch 1): Label=4, Avg RGB=(99,88,87)
+The model predicts to be label 6 with confidence 39.09% and inference time 119 ms
+FALSE
+Image #774 (Batch 1): Label=0, Avg RGB=(144,158,195)
+The model predicts to be label 2 with confidence 56.94% and inference time 138 ms
+FALSE
+Image #775 (Batch 1): Label=2, Avg RGB=(61,77,44)
+The model predicts to be label 4 with confidence 52.01% and inference time 114 ms
+FALSE
+Image #776 (Batch 1): Label=2, Avg RGB=(96,100,99)
+The model predicts to be label 3 with confidence 50.43% and inference time 119 ms
+FALSE
+Image #777 (Batch 1): Label=6, Avg RGB=(144,109,90)
+The model predicts to be label 6 with confidence 69.00% and inference time 128 ms
+TRUE
+Image #778 (Batch 1): Label=0, Avg RGB=(140,119,89)
+The model predicts to be label 0 with confidence 98.01% and inference time 128 ms
+TRUE
+Image #779 (Batch 1): Label=5, Avg RGB=(122,111,83)
+The model predicts to be label 6 with confidence 86.55% and inference time 124 ms
+FALSE
+Image #780 (Batch 1): Label=9, Avg RGB=(119,144,126)
+The model predicts to be label 9 with confidence 80.37% and inference time 133 ms
+TRUE
+Image #781 (Batch 1): Label=1, Avg RGB=(93,91,87)
+The model predicts to be label 1 with confidence 97.81% and inference time 119 ms
+TRUE
+Image #782 (Batch 1): Label=7, Avg RGB=(111,120,70)
+The model predicts to be label 7 with confidence 52.33% and inference time 124 ms
+TRUE
+Image #783 (Batch 1): Label=6, Avg RGB=(117,104,101)
+The model predicts to be label 6 with confidence 70.84% and inference time 129 ms
+TRUE
+Image #784 (Batch 1): Label=7, Avg RGB=(94,82,50)
+The model predicts to be label 7 with confidence 71.66% and inference time 114 ms
+TRUE
+Image #785 (Batch 1): Label=0, Avg RGB=(155,161,174)
+The model predicts to be label 0 with confidence 77.14% and inference time 139 ms
+TRUE
+Image #786 (Batch 1): Label=3, Avg RGB=(198,181,154)
+The model predicts to be label 8 with confidence 33.90% and inference time 134 ms
+FALSE
+Image #787 (Batch 1): Label=9, Avg RGB=(140,145,151)
+The model predicts to be label 9 with confidence 64.66% and inference time 129 ms
+TRUE
+Image #788 (Batch 1): Label=6, Avg RGB=(122,129,103)
+The model predicts to be label 6 with confidence 27.16% and inference time 129 ms
+TRUE
+Image #789 (Batch 1): Label=8, Avg RGB=(65,73,84)
+The model predicts to be label 8 with confidence 77.52% and inference time 114 ms
+TRUE
+Image #790 (Batch 1): Label=3, Avg RGB=(200,195,186)
+The model predicts to be label 0 with confidence 94.44% and inference time 133 ms
+FALSE
+Image #791 (Batch 1): Label=0, Avg RGB=(169,164,166)
+The model predicts to be label 0 with confidence 99.51% and inference time 129 ms
+TRUE
+Image #792 (Batch 1): Label=3, Avg RGB=(179,172,169)
+The model predicts to be label 7 with confidence 25.75% and inference time 133 ms
+FALSE
+Image #793 (Batch 1): Label=4, Avg RGB=(108,110,95)
+The model predicts to be label 7 with confidence 20.52% and inference time 123 ms
+FALSE
+Image #794 (Batch 1): Label=7, Avg RGB=(133,125,115)
+The model predicts to be label 7 with confidence 68.57% and inference time 133 ms
+TRUE
+Image #795 (Batch 1): Label=7, Avg RGB=(137,141,121)
+The model predicts to be label 5 with confidence 80.54% and inference time 134 ms
+FALSE
+Image #796 (Batch 1): Label=1, Avg RGB=(100,94,71)
+The model predicts to be label 9 with confidence 48.42% and inference time 114 ms
+FALSE
+Image #797 (Batch 1): Label=4, Avg RGB=(163,158,130)
+The model predicts to be label 7 with confidence 54.21% and inference time 133 ms
+FALSE
+Image #798 (Batch 1): Label=7, Avg RGB=(132,130,109)
+The model predicts to be label 3 with confidence 26.23% and inference time 128 ms
+FALSE
+Image #799 (Batch 1): Label=2, Avg RGB=(110,116,110)
+The model predicts to be label 4 with confidence 42.21% and inference time 133 ms
+FALSE
+Image #800 (Batch 1): Label=7, Avg RGB=(123,113,109)
+The model predicts to be label 7 with confidence 47.97% and inference time 124 ms
+TRUE
+Image #801 (Batch 1): Label=1, Avg RGB=(118,101,108)
+The model predicts to be label 1 with confidence 98.52% and inference time 123 ms
+TRUE
+Image #802 (Batch 1): Label=4, Avg RGB=(54,129,209)
+The model predicts to be label 2 with confidence 59.14% and inference time 128 ms
+FALSE
+Image #803 (Batch 1): Label=7, Avg RGB=(137,135,126)
+The model predicts to be label 7 with confidence 96.25% and inference time 133 ms
+TRUE
+Image #804 (Batch 1): Label=4, Avg RGB=(97,104,92)
+The model predicts to be label 4 with confidence 74.80% and inference time 119 ms
+TRUE
+Image #805 (Batch 1): Label=4, Avg RGB=(90,85,29)
+The model predicts to be label 2 with confidence 39.98% and inference time 113 ms
+FALSE
+Image #806 (Batch 1): Label=8, Avg RGB=(101,120,148)
+The model predicts to be label 8 with confidence 53.80% and inference time 129 ms
+TRUE
+Image #807 (Batch 1): Label=4, Avg RGB=(121,132,54)
+The model predicts to be label 4 with confidence 51.41% and inference time 124 ms
+TRUE
+Image #808 (Batch 1): Label=7, Avg RGB=(200,175,110)
+The model predicts to be label 7 with confidence 65.23% and inference time 133 ms
+TRUE
+Image #809 (Batch 1): Label=7, Avg RGB=(132,137,137)
+The model predicts to be label 5 with confidence 31.25% and inference time 129 ms
+FALSE
+Image #810 (Batch 1): Label=5, Avg RGB=(153,148,143)
+The model predicts to be label 5 with confidence 92.24% and inference time 133 ms
+TRUE
+Image #811 (Batch 1): Label=3, Avg RGB=(135,106,85)
+The model predicts to be label 5 with confidence 30.53% and inference time 124 ms
+FALSE
+Image #812 (Batch 1): Label=7, Avg RGB=(129,119,110)
+The model predicts to be label 4 with confidence 68.90% and inference time 129 ms
+FALSE
+Image #813 (Batch 1): Label=2, Avg RGB=(99,131,74)
+The model predicts to be label 2 with confidence 78.75% and inference time 124 ms
+TRUE
+Image #814 (Batch 1): Label=0, Avg RGB=(130,130,127)
+The model predicts to be label 0 with confidence 49.94% and inference time 129 ms
+TRUE
+Image #815 (Batch 1): Label=8, Avg RGB=(129,139,138)
+The model predicts to be label 8 with confidence 94.14% and inference time 124 ms
+TRUE
+Image #816 (Batch 1): Label=9, Avg RGB=(115,103,100)
+The model predicts to be label 9 with confidence 65.01% and inference time 124 ms
+TRUE
+Image #817 (Batch 1): Label=5, Avg RGB=(81,96,85)
+The model predicts to be label 3 with confidence 54.06% and inference time 119 ms
+FALSE
+Image #818 (Batch 1): Label=8, Avg RGB=(70,95,81)
+The model predicts to be label 1 with confidence 72.30% and inference time 119 ms
+FALSE
+Image #819 (Batch 1): Label=3, Avg RGB=(95,97,73)
+The model predicts to be label 1 with confidence 89.63% and inference time 119 ms
+FALSE
+Image #820 (Batch 1): Label=6, Avg RGB=(100,128,120)
+The model predicts to be label 5 with confidence 34.76% and inference time 124 ms
+FALSE
+Image #821 (Batch 1): Label=2, Avg RGB=(174,159,152)
+The model predicts to be label 2 with confidence 61.80% and inference time 138 ms
+TRUE
+Image #822 (Batch 1): Label=0, Avg RGB=(120,120,120)
+The model predicts to be label 0 with confidence 72.70% and inference time 124 ms
+TRUE
+Image #823 (Batch 1): Label=8, Avg RGB=(76,109,135)
+The model predicts to be label 8 with confidence 93.42% and inference time 123 ms
+TRUE
+Image #824 (Batch 1): Label=7, Avg RGB=(153,133,113)
+The model predicts to be label 7 with confidence 95.17% and inference time 133 ms
+TRUE
+Image #825 (Batch 1): Label=3, Avg RGB=(70,93,84)
+The model predicts to be label 3 with confidence 48.48% and inference time 119 ms
+TRUE
+Image #826 (Batch 1): Label=7, Avg RGB=(112,82,68)
+The model predicts to be label 0 with confidence 29.25% and inference time 119 ms
+FALSE
+Image #827 (Batch 1): Label=6, Avg RGB=(118,97,82)
+The model predicts to be label 6 with confidence 83.96% and inference time 119 ms
+TRUE
+Image #828 (Batch 1): Label=5, Avg RGB=(165,155,142)
+The model predicts to be label 4 with confidence 28.89% and inference time 133 ms
+FALSE
+Image #829 (Batch 1): Label=3, Avg RGB=(180,186,186)
+The model predicts to be label 2 with confidence 41.75% and inference time 133 ms
+FALSE
+Image #830 (Batch 1): Label=1, Avg RGB=(93,94,101)
+The model predicts to be label 1 with confidence 48.34% and inference time 118 ms
+TRUE
+Image #831 (Batch 1): Label=3, Avg RGB=(142,126,110)
+The model predicts to be label 9 with confidence 81.10% and inference time 133 ms
+FALSE
+Image #832 (Batch 1): Label=2, Avg RGB=(190,181,168)
+The model predicts to be label 2 with confidence 91.47% and inference time 139 ms
+TRUE
+Image #833 (Batch 1): Label=2, Avg RGB=(126,96,77)
+The model predicts to be label 5 with confidence 62.23% and inference time 119 ms
+FALSE
+Image #834 (Batch 1): Label=5, Avg RGB=(119,133,68)
+The model predicts to be label 2 with confidence 48.77% and inference time 123 ms
+FALSE
+Image #835 (Batch 1): Label=4, Avg RGB=(100,108,112)
+The model predicts to be label 3 with confidence 78.65% and inference time 123 ms
+FALSE
+Image #836 (Batch 1): Label=1, Avg RGB=(127,135,148)
+The model predicts to be label 9 with confidence 47.61% and inference time 133 ms
+FALSE
+Image #837 (Batch 1): Label=2, Avg RGB=(132,110,90)
+The model predicts to be label 5 with confidence 37.21% and inference time 129 ms
+FALSE
+Image #838 (Batch 1): Label=9, Avg RGB=(88,102,95)
+The model predicts to be label 9 with confidence 28.51% and inference time 119 ms
+TRUE
+Image #839 (Batch 1): Label=2, Avg RGB=(142,142,139)
+The model predicts to be label 2 with confidence 96.00% and inference time 133 ms
+TRUE
+Image #840 (Batch 1): Label=7, Avg RGB=(177,175,149)
+The model predicts to be label 7 with confidence 98.11% and inference time 133 ms
+TRUE
+Image #841 (Batch 1): Label=0, Avg RGB=(56,67,87)
+The model predicts to be label 8 with confidence 54.03% and inference time 109 ms
+FALSE
+Image #842 (Batch 1): Label=7, Avg RGB=(124,120,94)
+The model predicts to be label 7 with confidence 99.60% and inference time 128 ms
+TRUE
+Image #843 (Batch 1): Label=2, Avg RGB=(130,130,102)
+The model predicts to be label 2 with confidence 62.40% and inference time 129 ms
+TRUE
+Image #844 (Batch 1): Label=1, Avg RGB=(77,79,66)
+The model predicts to be label 1 with confidence 79.56% and inference time 118 ms
+TRUE
+Image #845 (Batch 1): Label=3, Avg RGB=(77,86,82)
+The model predicts to be label 1 with confidence 53.76% and inference time 119 ms
+FALSE
+Image #846 (Batch 1): Label=2, Avg RGB=(105,106,92)
+The model predicts to be label 3 with confidence 36.83% and inference time 124 ms
+FALSE
+Image #847 (Batch 1): Label=0, Avg RGB=(130,144,156)
+The model predicts to be label 0 with confidence 91.77% and inference time 129 ms
+TRUE
+Image #848 (Batch 1): Label=2, Avg RGB=(94,94,86)
+The model predicts to be label 2 with confidence 43.11% and inference time 123 ms
+TRUE
+Image #849 (Batch 1): Label=4, Avg RGB=(85,102,73)
+The model predicts to be label 4 with confidence 50.49% and inference time 119 ms
+TRUE
+Image #850 (Batch 1): Label=7, Avg RGB=(124,112,90)
+The model predicts to be label 5 with confidence 61.77% and inference time 124 ms
+FALSE
+Image #851 (Batch 1): Label=9, Avg RGB=(152,115,119)
+The model predicts to be label 1 with confidence 42.40% and inference time 124 ms
+FALSE
+Image #852 (Batch 1): Label=8, Avg RGB=(89,105,124)
+The model predicts to be label 8 with confidence 93.71% and inference time 128 ms
+TRUE
+Image #853 (Batch 1): Label=9, Avg RGB=(79,81,87)
+The model predicts to be label 1 with confidence 53.16% and inference time 114 ms
+FALSE
+Image #854 (Batch 1): Label=0, Avg RGB=(140,173,204)
+The model predicts to be label 0 with confidence 56.84% and inference time 138 ms
+TRUE
+Image #855 (Batch 1): Label=7, Avg RGB=(130,149,138)
+The model predicts to be label 7 with confidence 42.43% and inference time 128 ms
+TRUE
+Image #856 (Batch 1): Label=7, Avg RGB=(130,127,108)
+The model predicts to be label 7 with confidence 77.69% and inference time 124 ms
+TRUE
+Image #857 (Batch 1): Label=0, Avg RGB=(136,142,148)
+The model predicts to be label 0 with confidence 64.02% and inference time 138 ms
+TRUE
+Image #858 (Batch 1): Label=7, Avg RGB=(114,110,102)
+The model predicts to be label 7 with confidence 95.37% and inference time 129 ms
+TRUE
+Image #859 (Batch 1): Label=8, Avg RGB=(92,98,120)
+The model predicts to be label 8 with confidence 80.00% and inference time 119 ms
+TRUE
+Image #860 (Batch 1): Label=4, Avg RGB=(65,91,61)
+The model predicts to be label 4 with confidence 51.43% and inference time 113 ms
+TRUE
+Image #861 (Batch 1): Label=6, Avg RGB=(119,86,52)
+The model predicts to be label 6 with confidence 91.75% and inference time 123 ms
+TRUE
+Image #862 (Batch 1): Label=3, Avg RGB=(64,65,60)
+The model predicts to be label 6 with confidence 93.87% and inference time 109 ms
+FALSE
+Image #863 (Batch 1): Label=3, Avg RGB=(187,179,181)
+The model predicts to be label 2 with confidence 29.76% and inference time 133 ms
+FALSE
+Image #864 (Batch 1): Label=0, Avg RGB=(175,189,201)
+The model predicts to be label 0 with confidence 93.94% and inference time 138 ms
+TRUE
+Image #865 (Batch 1): Label=1, Avg RGB=(131,130,128)
+The model predicts to be label 8 with confidence 56.62% and inference time 128 ms
+FALSE
+Image #866 (Batch 1): Label=3, Avg RGB=(136,108,112)
+The model predicts to be label 2 with confidence 51.44% and inference time 128 ms
+FALSE
+Image #867 (Batch 1): Label=7, Avg RGB=(175,164,156)
+The model predicts to be label 7 with confidence 55.09% and inference time 134 ms
+TRUE
+Image #868 (Batch 1): Label=0, Avg RGB=(122,126,125)
+The model predicts to be label 0 with confidence 82.79% and inference time 133 ms
+TRUE
+Image #869 (Batch 1): Label=1, Avg RGB=(145,128,117)
+The model predicts to be label 1 with confidence 71.26% and inference time 134 ms
+TRUE
+Image #870 (Batch 1): Label=3, Avg RGB=(158,134,112)
+The model predicts to be label 3 with confidence 35.31% and inference time 124 ms
+TRUE
+Image #871 (Batch 1): Label=1, Avg RGB=(103,95,92)
+The model predicts to be label 1 with confidence 96.45% and inference time 123 ms
+TRUE
+Image #872 (Batch 1): Label=4, Avg RGB=(27,28,16)
+The model predicts to be label 4 with confidence 69.09% and inference time 89 ms
+TRUE
+Image #873 (Batch 1): Label=2, Avg RGB=(109,136,183)
+The model predicts to be label 2 with confidence 32.05% and inference time 133 ms
+TRUE
+Image #874 (Batch 1): Label=3, Avg RGB=(104,91,82)
+The model predicts to be label 3 with confidence 97.48% and inference time 123 ms
+TRUE
+Image #875 (Batch 1): Label=8, Avg RGB=(138,161,178)
+The model predicts to be label 8 with confidence 92.28% and inference time 129 ms
+TRUE
+Image #876 (Batch 1): Label=4, Avg RGB=(98,111,72)
+The model predicts to be label 4 with confidence 29.23% and inference time 124 ms
+TRUE
+Image #877 (Batch 1): Label=2, Avg RGB=(158,150,137)
+The model predicts to be label 2 with confidence 84.63% and inference time 129 ms
+TRUE
+Image #878 (Batch 1): Label=3, Avg RGB=(78,134,133)
+The model predicts to be label 4 with confidence 41.68% and inference time 128 ms
+FALSE
+Image #879 (Batch 1): Label=7, Avg RGB=(135,130,119)
+The model predicts to be label 4 with confidence 34.62% and inference time 128 ms
+FALSE
+Image #880 (Batch 1): Label=8, Avg RGB=(154,175,191)
+The model predicts to be label 8 with confidence 88.24% and inference time 133 ms
+TRUE
+Image #881 (Batch 1): Label=4, Avg RGB=(121,124,111)
+The model predicts to be label 4 with confidence 49.78% and inference time 128 ms
+TRUE
+Image #882 (Batch 1): Label=3, Avg RGB=(178,178,178)
+The model predicts to be label 0 with confidence 44.30% and inference time 134 ms
+FALSE
+Image #883 (Batch 1): Label=0, Avg RGB=(209,209,210)
+The model predicts to be label 0 with confidence 94.12% and inference time 133 ms
+TRUE
+Image #884 (Batch 1): Label=9, Avg RGB=(141,133,130)
+The model predicts to be label 7 with confidence 44.61% and inference time 128 ms
+FALSE
+Image #885 (Batch 1): Label=0, Avg RGB=(155,177,200)
+The model predicts to be label 4 with confidence 95.55% and inference time 138 ms
+FALSE
+Image #886 (Batch 1): Label=0, Avg RGB=(120,145,158)
+The model predicts to be label 8 with confidence 81.87% and inference time 134 ms
+FALSE
+Image #887 (Batch 1): Label=1, Avg RGB=(115,122,99)
+The model predicts to be label 1 with confidence 70.65% and inference time 124 ms
+TRUE
+Image #888 (Batch 1): Label=0, Avg RGB=(102,110,132)
+The model predicts to be label 8 with confidence 51.04% and inference time 124 ms
+FALSE
+Image #889 (Batch 1): Label=4, Avg RGB=(113,109,77)
+The model predicts to be label 4 with confidence 43.11% and inference time 123 ms
+TRUE
+Image #890 (Batch 1): Label=4, Avg RGB=(92,82,89)
+The model predicts to be label 3 with confidence 42.88% and inference time 118 ms
+FALSE
+Image #891 (Batch 1): Label=6, Avg RGB=(82,108,40)
+The model predicts to be label 1 with confidence 42.98% and inference time 118 ms
+FALSE
+Image #892 (Batch 1): Label=7, Avg RGB=(116,124,129)
+The model predicts to be label 7 with confidence 97.72% and inference time 129 ms
+TRUE
+Image #893 (Batch 1): Label=6, Avg RGB=(225,214,205)
+The model predicts to be label 3 with confidence 64.57% and inference time 134 ms
+FALSE
+Image #894 (Batch 1): Label=1, Avg RGB=(110,116,112)
+The model predicts to be label 1 with confidence 98.05% and inference time 130 ms
+TRUE
+Image #895 (Batch 1): Label=1, Avg RGB=(84,84,98)
+The model predicts to be label 1 with confidence 78.02% and inference time 119 ms
+TRUE
+Image #896 (Batch 1): Label=3, Avg RGB=(126,119,111)
+The model predicts to be label 3 with confidence 78.86% and inference time 129 ms
+TRUE
+Image #897 (Batch 1): Label=7, Avg RGB=(120,122,119)
+The model predicts to be label 7 with confidence 87.41% and inference time 129 ms
+TRUE
+Image #898 (Batch 1): Label=3, Avg RGB=(144,99,93)
+The model predicts to be label 3 with confidence 31.57% and inference time 124 ms
+TRUE
+Image #899 (Batch 1): Label=5, Avg RGB=(145,131,128)
+The model predicts to be label 5 with confidence 29.51% and inference time 124 ms
+TRUE
+Image #900 (Batch 1): Label=2, Avg RGB=(55,83,55)
+The model predicts to be label 5 with confidence 35.62% and inference time 113 ms
+FALSE
+Image #901 (Batch 1): Label=6, Avg RGB=(124,99,85)
+The model predicts to be label 6 with confidence 73.45% and inference time 123 ms
+TRUE
+Image #902 (Batch 1): Label=6, Avg RGB=(98,113,73)
+The model predicts to be label 6 with confidence 99.08% and inference time 123 ms
+TRUE
+Image #903 (Batch 1): Label=5, Avg RGB=(129,120,112)
+The model predicts to be label 5 with confidence 47.23% and inference time 128 ms
+TRUE
+Image #904 (Batch 1): Label=8, Avg RGB=(157,176,175)
+The model predicts to be label 8 with confidence 54.09% and inference time 134 ms
+TRUE
+Image #905 (Batch 1): Label=7, Avg RGB=(161,159,159)
+The model predicts to be label 4 with confidence 29.01% and inference time 133 ms
+FALSE
+Image #906 (Batch 1): Label=1, Avg RGB=(94,90,97)
+The model predicts to be label 8 with confidence 47.27% and inference time 118 ms
+FALSE
+Image #907 (Batch 1): Label=6, Avg RGB=(36,35,25)
+The model predicts to be label 6 with confidence 77.20% and inference time 108 ms
+TRUE
+Image #908 (Batch 1): Label=8, Avg RGB=(101,122,132)
+The model predicts to be label 8 with confidence 78.51% and inference time 129 ms
+TRUE
+Image #909 (Batch 1): Label=8, Avg RGB=(97,97,104)
+The model predicts to be label 8 with confidence 95.77% and inference time 119 ms
+TRUE
+Image #910 (Batch 1): Label=5, Avg RGB=(130,115,83)
+The model predicts to be label 6 with confidence 27.69% and inference time 128 ms
+FALSE
+Image #911 (Batch 1): Label=3, Avg RGB=(117,92,76)
+The model predicts to be label 3 with confidence 83.45% and inference time 114 ms
+TRUE
+Image #912 (Batch 1): Label=0, Avg RGB=(162,158,153)
+The model predicts to be label 3 with confidence 52.24% and inference time 133 ms
+FALSE
+Image #913 (Batch 1): Label=4, Avg RGB=(161,133,107)
+The model predicts to be label 2 with confidence 48.22% and inference time 129 ms
+FALSE
+Image #914 (Batch 1): Label=0, Avg RGB=(110,59,19)
+The model predicts to be label 0 with confidence 55.23% and inference time 113 ms
+TRUE
+Image #915 (Batch 1): Label=1, Avg RGB=(143,136,124)
+The model predicts to be label 9 with confidence 49.23% and inference time 129 ms
+FALSE
+Image #916 (Batch 1): Label=3, Avg RGB=(138,113,114)
+The model predicts to be label 4 with confidence 41.07% and inference time 129 ms
+FALSE
+Image #917 (Batch 1): Label=8, Avg RGB=(115,175,197)
+The model predicts to be label 8 with confidence 74.00% and inference time 134 ms
+TRUE
+Image #918 (Batch 1): Label=8, Avg RGB=(138,145,150)
+The model predicts to be label 8 with confidence 66.64% and inference time 133 ms
+TRUE
+Image #919 (Batch 1): Label=0, Avg RGB=(162,150,101)
+The model predicts to be label 0 with confidence 68.30% and inference time 133 ms
+TRUE
+Image #920 (Batch 1): Label=6, Avg RGB=(179,155,127)
+The model predicts to be label 6 with confidence 34.73% and inference time 134 ms
+TRUE
+Image #921 (Batch 1): Label=9, Avg RGB=(117,122,131)
+The model predicts to be label 9 with confidence 98.17% and inference time 123 ms
+TRUE
+Image #922 (Batch 1): Label=9, Avg RGB=(162,105,104)
+The model predicts to be label 7 with confidence 50.27% and inference time 128 ms
+FALSE
+Image #923 (Batch 1): Label=9, Avg RGB=(142,129,117)
+The model predicts to be label 3 with confidence 33.19% and inference time 129 ms
+FALSE
+Image #924 (Batch 1): Label=5, Avg RGB=(96,83,85)
+The model predicts to be label 7 with confidence 59.66% and inference time 119 ms
+FALSE
+Image #925 (Batch 1): Label=5, Avg RGB=(72,64,56)
+The model predicts to be label 3 with confidence 62.06% and inference time 104 ms
+FALSE
+Image #926 (Batch 1): Label=8, Avg RGB=(128,111,113)
+The model predicts to be label 8 with confidence 68.49% and inference time 129 ms
+TRUE
+Image #927 (Batch 1): Label=6, Avg RGB=(153,138,121)
+The model predicts to be label 6 with confidence 70.34% and inference time 134 ms
+TRUE
+Image #928 (Batch 1): Label=0, Avg RGB=(175,153,145)
+The model predicts to be label 0 with confidence 98.51% and inference time 134 ms
+TRUE
+Image #929 (Batch 1): Label=0, Avg RGB=(145,168,182)
+The model predicts to be label 8 with confidence 51.83% and inference time 134 ms
+FALSE
+Image #930 (Batch 1): Label=4, Avg RGB=(97,109,75)
+The model predicts to be label 4 with confidence 76.69% and inference time 123 ms
+TRUE
+Image #931 (Batch 1): Label=2, Avg RGB=(122,100,87)
+The model predicts to be label 2 with confidence 65.27% and inference time 129 ms
+TRUE
+Image #932 (Batch 1): Label=3, Avg RGB=(87,75,72)
+The model predicts to be label 3 with confidence 59.82% and inference time 114 ms
+TRUE
+Image #933 (Batch 1): Label=2, Avg RGB=(113,106,96)
+The model predicts to be label 7 with confidence 29.46% and inference time 123 ms
+FALSE
+Image #934 (Batch 1): Label=7, Avg RGB=(147,142,123)
+The model predicts to be label 7 with confidence 99.93% and inference time 129 ms
+TRUE
+Image #935 (Batch 1): Label=2, Avg RGB=(206,201,206)
+The model predicts to be label 7 with confidence 35.29% and inference time 134 ms
+FALSE
+Image #936 (Batch 1): Label=2, Avg RGB=(128,133,136)
+The model predicts to be label 8 with confidence 28.45% and inference time 134 ms
+FALSE
+Image #937 (Batch 1): Label=5, Avg RGB=(160,159,132)
+The model predicts to be label 5 with confidence 84.52% and inference time 134 ms
+TRUE
+Image #938 (Batch 1): Label=9, Avg RGB=(109,107,99)
+The model predicts to be label 8 with confidence 21.25% and inference time 124 ms
+FALSE
+Image #939 (Batch 1): Label=8, Avg RGB=(66,68,80)
+The model predicts to be label 8 with confidence 82.75% and inference time 114 ms
+TRUE
+Image #940 (Batch 1): Label=9, Avg RGB=(144,90,84)
+The model predicts to be label 1 with confidence 67.95% and inference time 123 ms
+FALSE
+Image #941 (Batch 1): Label=1, Avg RGB=(121,95,86)
+The model predicts to be label 9 with confidence 43.68% and inference time 123 ms
+FALSE
+Image #942 (Batch 1): Label=7, Avg RGB=(122,114,76)
+The model predicts to be label 7 with confidence 49.35% and inference time 119 ms
+TRUE
+Image #943 (Batch 1): Label=4, Avg RGB=(89,113,34)
+The model predicts to be label 4 with confidence 56.92% and inference time 114 ms
+TRUE
+Image #944 (Batch 1): Label=0, Avg RGB=(112,120,114)
+The model predicts to be label 0 with confidence 68.23% and inference time 128 ms
+TRUE
+Image #945 (Batch 1): Label=3, Avg RGB=(168,165,165)
+The model predicts to be label 5 with confidence 57.91% and inference time 134 ms
+FALSE
+Image #946 (Batch 1): Label=0, Avg RGB=(144,160,178)
+The model predicts to be label 0 with confidence 98.59% and inference time 134 ms
+TRUE
+Image #947 (Batch 1): Label=1, Avg RGB=(62,60,55)
+The model predicts to be label 1 with confidence 83.31% and inference time 109 ms
+TRUE
+Image #948 (Batch 1): Label=3, Avg RGB=(97,99,86)
+The model predicts to be label 4 with confidence 40.03% and inference time 123 ms
+FALSE
+Image #949 (Batch 1): Label=8, Avg RGB=(71,74,73)
+The model predicts to be label 1 with confidence 71.99% and inference time 118 ms
+FALSE
+Image #950 (Batch 1): Label=3, Avg RGB=(145,141,139)
+The model predicts to be label 5 with confidence 26.88% and inference time 134 ms
+FALSE
+Image #951 (Batch 1): Label=9, Avg RGB=(165,146,141)
+The model predicts to be label 9 with confidence 68.39% and inference time 129 ms
+TRUE
+Image #952 (Batch 1): Label=6, Avg RGB=(88,101,67)
+The model predicts to be label 5 with confidence 39.45% and inference time 119 ms
+FALSE
+Image #953 (Batch 1): Label=1, Avg RGB=(137,135,136)
+The model predicts to be label 8 with confidence 67.30% and inference time 129 ms
+FALSE
+Image #954 (Batch 1): Label=4, Avg RGB=(123,125,90)
+The model predicts to be label 6 with confidence 70.44% and inference time 128 ms
+FALSE
+Image #955 (Batch 1): Label=7, Avg RGB=(140,128,108)
+The model predicts to be label 7 with confidence 88.81% and inference time 129 ms
+TRUE
+Image #956 (Batch 1): Label=0, Avg RGB=(123,138,170)
+The model predicts to be label 0 with confidence 74.47% and inference time 133 ms
+TRUE
+Image #957 (Batch 1): Label=3, Avg RGB=(101,82,80)
+The model predicts to be label 6 with confidence 90.82% and inference time 118 ms
+FALSE
+Image #958 (Batch 1): Label=7, Avg RGB=(147,137,107)
+The model predicts to be label 7 with confidence 97.64% and inference time 129 ms
+TRUE
+Image #959 (Batch 1): Label=8, Avg RGB=(133,135,148)
+The model predicts to be label 8 with confidence 98.45% and inference time 129 ms
+TRUE
+Image #960 (Batch 1): Label=9, Avg RGB=(176,118,79)
+The model predicts to be label 9 with confidence 98.61% and inference time 124 ms
+TRUE
+Image #961 (Batch 1): Label=1, Avg RGB=(110,119,116)
+The model predicts to be label 1 with confidence 55.18% and inference time 123 ms
+TRUE
+Image #962 (Batch 1): Label=1, Avg RGB=(155,140,133)
+The model predicts to be label 1 with confidence 57.11% and inference time 133 ms
+TRUE
+Image #963 (Batch 1): Label=6, Avg RGB=(126,120,93)
+The model predicts to be label 6 with confidence 74.23% and inference time 124 ms
+TRUE
+Image #964 (Batch 1): Label=6, Avg RGB=(129,105,87)
+The model predicts to be label 6 with confidence 31.03% and inference time 123 ms
+TRUE
+Image #965 (Batch 1): Label=6, Avg RGB=(148,103,80)
+The model predicts to be label 5 with confidence 27.59% and inference time 128 ms
+FALSE
+Image #966 (Batch 1): Label=6, Avg RGB=(155,145,143)
+The model predicts to be label 3 with confidence 27.89% and inference time 129 ms
+FALSE
+Image #967 (Batch 1): Label=9, Avg RGB=(146,151,156)
+The model predicts to be label 9 with confidence 94.39% and inference time 128 ms
+TRUE
+Image #968 (Batch 1): Label=1, Avg RGB=(92,99,110)
+The model predicts to be label 1 with confidence 88.12% and inference time 123 ms
+TRUE
+Image #969 (Batch 1): Label=9, Avg RGB=(137,134,133)
+The model predicts to be label 9 with confidence 77.87% and inference time 128 ms
+TRUE
+Image #970 (Batch 1): Label=9, Avg RGB=(92,104,102)
+The model predicts to be label 9 with confidence 93.37% and inference time 123 ms
+TRUE
+Image #971 (Batch 1): Label=4, Avg RGB=(100,81,42)
+The model predicts to be label 4 with confidence 48.24% and inference time 114 ms
+TRUE
+Image #972 (Batch 1): Label=2, Avg RGB=(117,124,82)
+The model predicts to be label 2 with confidence 35.92% and inference time 123 ms
+TRUE
+Image #973 (Batch 1): Label=1, Avg RGB=(82,56,47)
+The model predicts to be label 1 with confidence 89.98% and inference time 113 ms
+TRUE
+Image #974 (Batch 1): Label=7, Avg RGB=(139,153,156)
+The model predicts to be label 0 with confidence 54.63% and inference time 133 ms
+FALSE
+Image #975 (Batch 1): Label=0, Avg RGB=(153,163,136)
+The model predicts to be label 0 with confidence 74.91% and inference time 129 ms
+TRUE
+Image #976 (Batch 1): Label=6, Avg RGB=(93,77,78)
+The model predicts to be label 6 with confidence 75.36% and inference time 123 ms
+TRUE
+Image #977 (Batch 1): Label=8, Avg RGB=(100,115,137)
+The model predicts to be label 8 with confidence 58.35% and inference time 129 ms
+TRUE
+Image #978 (Batch 1): Label=1, Avg RGB=(85,81,83)
+The model predicts to be label 1 with confidence 66.36% and inference time 119 ms
+TRUE
+Image #979 (Batch 1): Label=9, Avg RGB=(118,94,85)
+The model predicts to be label 9 with confidence 57.16% and inference time 119 ms
+TRUE
+Image #980 (Batch 1): Label=2, Avg RGB=(110,85,57)
+The model predicts to be label 2 with confidence 37.05% and inference time 118 ms
+TRUE
+Image #981 (Batch 1): Label=9, Avg RGB=(162,165,162)
+The model predicts to be label 1 with confidence 51.38% and inference time 133 ms
+FALSE
+Image #982 (Batch 1): Label=0, Avg RGB=(79,76,68)
+The model predicts to be label 2 with confidence 46.54% and inference time 113 ms
+FALSE
+Image #983 (Batch 1): Label=4, Avg RGB=(95,103,91)
+The model predicts to be label 4 with confidence 80.90% and inference time 123 ms
+TRUE
+Image #984 (Batch 1): Label=7, Avg RGB=(91,76,73)
+The model predicts to be label 7 with confidence 96.05% and inference time 119 ms
+TRUE
+Image #985 (Batch 1): Label=8, Avg RGB=(98,95,114)
+The model predicts to be label 8 with confidence 51.62% and inference time 119 ms
+TRUE
+Image #986 (Batch 1): Label=3, Avg RGB=(133,137,149)
+The model predicts to be label 5 with confidence 77.31% and inference time 128 ms
+FALSE
+Image #987 (Batch 1): Label=1, Avg RGB=(96,103,126)
+The model predicts to be label 1 with confidence 94.74% and inference time 128 ms
+TRUE
+Image #988 (Batch 1): Label=2, Avg RGB=(132,137,140)
+The model predicts to be label 2 with confidence 70.39% and inference time 129 ms
+TRUE
+Image #989 (Batch 1): Label=0, Avg RGB=(158,159,156)
+The model predicts to be label 0 with confidence 67.07% and inference time 138 ms
+TRUE
+Image #990 (Batch 1): Label=1, Avg RGB=(80,81,78)
+The model predicts to be label 1 with confidence 99.66% and inference time 119 ms
+TRUE
+Image #991 (Batch 1): Label=5, Avg RGB=(89,42,30)
+The model predicts to be label 2 with confidence 43.74% and inference time 109 ms
+FALSE
+Image #992 (Batch 1): Label=8, Avg RGB=(100,132,178)
+The model predicts to be label 8 with confidence 86.65% and inference time 128 ms
+TRUE
+Image #993 (Batch 1): Label=4, Avg RGB=(134,133,133)
+The model predicts to be label 7 with confidence 44.50% and inference time 128 ms
+FALSE
+Image #994 (Batch 1): Label=6, Avg RGB=(106,109,63)
+The model predicts to be label 3 with confidence 37.28% and inference time 118 ms
+FALSE
+Image #995 (Batch 1): Label=3, Avg RGB=(129,119,99)
+The model predicts to be label 3 with confidence 44.07% and inference time 129 ms
+TRUE
+Image #996 (Batch 1): Label=8, Avg RGB=(125,125,130)
+The model predicts to be label 0 with confidence 40.80% and inference time 124 ms
+FALSE
+Image #997 (Batch 1): Label=1, Avg RGB=(94,108,110)
+The model predicts to be label 9 with confidence 57.04% and inference time 124 ms
+FALSE
+Image #998 (Batch 1): Label=3, Avg RGB=(98,106,87)
+The model predicts to be label 3 with confidence 80.75% and inference time 119 ms
+TRUE
+Image #999 (Batch 1): Label=8, Avg RGB=(153,145,150)
+The model predicts to be label 8 with confidence 79.51% and inference time 133 ms
+TRUE
+
+FINISHED FIRST 1000 IMAGES!
+- Accruacy after running 1000 first images: 59.90%
+- Average inference time after running 1000 first images: 126 ms
+- Total inference time after running 1000 first images: 126.32 (s)
