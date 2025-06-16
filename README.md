@@ -63,4 +63,8 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 ![optimization_options](figures_for_readme/properties_with_square_3.png)
 
+After that, "Clean Project" then "Build Project". The project should runs with no errors and no warnings. In "Debug Configurations" > "Debugger", enable the Serial Wire Viewer (SWV). Then, "Debug As STM32 C/C++ Application".
+
+In the Debug Mode, 
+
 **Step 7:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
