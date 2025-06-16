@@ -128,3 +128,34 @@ and being compatible with the Floating-point ABI options & Optimization options 
 Upload those .txt files into [evaluation.ipynb](software_implementation/evaluation.ipynb)
 
 **Step 7:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) in order to compare with the predictions of the uploaded .txt files.
+
+## Testing All 10,000 Validation Images
+
+**Notice:** We use hardware FP ABI & -Ofast optimization.
+
+Change `volatile const uint32_t NUMBER_OF_FIRST_IMAGES = 1000;` at [main.c](Core/Src/main.c) to `10000`. Then "Clean Project" > "Build Project". This is the [output console](software_implementation/all_validation_images_build_process.txt).
+
+Debug project and copy the texts at copy the text at "SWV ITM Data Console" and paste in: [all_validation_images_itm_data_console.txt](software_implementation/all_validation_images_itm_data_console.txt) in this format:
+
+```
+Image #0 (Batch 1): Label=3, Avg RGB=(110,110,104)
+The model predicts to be label 3 with confidence 38.88% and inference time 122 ms
+TRUE
+Image #1 (Batch 1): Label=8, Avg RGB=(150,154,160)
+The model predicts to be label 8 with confidence 77.56% and inference time 128 ms
+TRUE
+...
+Image #9998 (Batch 10): Label=1, Avg RGB=(106,118,90)
+The model predicts to be label 1 with confidence 61.53% and inference time 117 ms
+TRUE
+Image #9999 (Batch 10): Label=7, Avg RGB=(113,114,96)
+The model predicts to be label 7 with confidence 60.79% and inference time 117 ms
+TRUE
+
+FINISHED FIRST 10000 IMAGES!
+- Accruacy after running 10000 first images: 60.01%
+- Average inference time after running 10000 first images: 119 ms
+- Total inference time after running 10000 first images: 1196.36 (s)
+```
+
+Run [all_validation_images_evaluation.ipynb](software_implementation/all_validation_images_evaluation.ipynb). It generates [all_validation_images_google_colab_predictions.txt](software_implementation/all_validation_images_google_colab_predictions.txt) to be compared with the above [all_validation_images_itm_data_console.txt](software_implementation/all_validation_images_itm_data_console.txt).
