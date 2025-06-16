@@ -22,3 +22,4 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 ## Testing the First 1,000 Validation Images
 
+**Step 1:** Run [cifar10_training_parameters_generated.ipynb](software_implementation/cifar10_training_parameters_generated.ipynb)
