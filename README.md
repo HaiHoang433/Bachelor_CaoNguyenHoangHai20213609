@@ -100,6 +100,7 @@ After finishing running, copy the text at "SWV ITM Data Console" and paste in:
 - [stm32_hard_Og_predictions.txt](software_implementation/stm32_hard_Og_predictions.txt)
 - [stm32_hard_Os_predictions.txt](software_implementation/stm32_hard_Os_predictions.txt)
 - [stm32_hard_Oz_predictions.txt](software_implementation/stm32_hard_Oz_predictions.txt)
+
 with this format:
 ```
 Image #0 (Batch 1): Label=3, Avg RGB=(110,110,104)
@@ -122,4 +123,8 @@ FINISHED FIRST 1000 IMAGES!
 - Total inference time after running 1000 first images: 298.05 (s)
 ```
 
-**Step 7:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
+and being compatible with the Floating-point ABI options & Optimization options you just setup above.
+
+Upload those .txt files into [evaluation.ipynb](software_implementation/evaluation.ipynb)
+
+**Step 7:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) in order to compare with the predictions of the uploaded .txt files.
