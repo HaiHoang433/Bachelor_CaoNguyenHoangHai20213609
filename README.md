@@ -24,7 +24,7 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 
 **Step 1:** Run [cifar10_training_parameters_generated.ipynb](software_implementation/cifar10_training_parameters_generated.ipynb) (with Python 3 and T4 GPU) to generate [cnn_params.h](software_implementation/cnn_params.h) (trained weights for MCU) and [cifar10_cnn.weights.h5](software_implementation/cifar10_cnn.weights.h5) (trained weights for evaluation with Google Colab).
 
-**Step 2:** Run [cifar10_validation_images_txt_generated.ipynb](software_implementation/cifar10_validation_images_txt_generated.ipynb) to generate generate 2 zip folders of [cifar10_essential](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/QMBiQZjY) and [cifar10_full_dataset](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/gAAg1ZjS). Put all the cifar10_batch_1.txt, cifar10_batch_2.txt, ..., cifar10_batch_10.txt from [cifar10_full_dataset](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/gAAg1ZjS) folder into the SD Card.
+**Step 2:** Run [cifar10_validation_images_txt_generated.ipynb](software_implementation/cifar10_validation_images_txt_generated.ipynb) to generate 2 zip folders of [cifar10_essential](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/QMBiQZjY) and [cifar10_full_dataset](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/gAAg1ZjS). Put all the cifar10_batch_1.txt, cifar10_batch_2.txt, ..., cifar10_batch_10.txt from [cifar10_full_dataset](https://mega.nz/folder/dJxCEIha#ggBgeCuhP4gDa195bdPYaw/folder/gAAg1ZjS) folder into the SD Card.
 
 **Step 3:** Configure .ioc file in STM32CubeIDE:
 - RCC: HSE to "Crystal/Ceramic Resonator".
@@ -34,7 +34,9 @@ This is the connection between STM32F4 Discovery and SD Card Module:
 - Set pin PC4 to GPIO_Output.
 - In clock configuration, configure HCLK to a maximum of 168 MHz.
 
-**Step 4:**
+**Step 4:** Configure settings of the project: In "Properties" > "C/C++ Build" > "Settings" > "MCU/MPU Settings":
+
+...
 
 **Step 5:** After automatically generating codes when Ctrl+S the .ioc file:
 - Adding [fatfs_sd.c](Core/Src/fatfs_sd.c) and [fatfs_sd.h](Core/Inc/fatfs_sd.h)
@@ -55,4 +57,10 @@ This is the connection between STM32F4 Discovery and SD Card Module:
    + /* USER CODE BEGIN 2 */
    + /* USER CODE BEGIN 3 */
 
-**Step 6:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
+**Step 6:** Choose Floating-point ABI options ("Properties" > "C/C++ Build" > "Settings" > "MCU/MPU Settings") & Optimization options ("Properties" > "C/C++ Build" > "Settings" > "MCU/MPU GCC Compiler" > "Optimization").
+
+...
+
+...
+
+**Step 7:** Run [evaluation.ipynb](software_implementation/evaluation.ipynb). It generates [google_colab_predictions.txt](software_implementation/google_colab_predictions.txt) for comparing with the predictions in ...
